@@ -1,0 +1,9 @@
+Regulation 25C — New buildings: minimum energy performance requirements
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 6 — Energy Efficiency Requirements
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/25C
+XML metadata: in force from 2022-11-23; extent E and W
+
+Minimum energy performance requirements must be approved by the Welsh Ministers, calculated and expressed in accordance with the methodology approved pursuant to regulation 24, for—
+(a) new buildings ..., in the form of target primary energy ... rates; and
+(b) when a dwelling is erected, in the form of target fabric performance values.

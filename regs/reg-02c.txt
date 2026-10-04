@@ -1,0 +1,7 @@
+Regulation 2C — Application: Wales
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 1 — General
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/2C
+XML metadata: in force from 2026-07-01
+
+Subject to regulation 2D, these Regulations apply to all buildings in Wales, including higher-risk buildings.

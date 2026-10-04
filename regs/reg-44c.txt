@@ -1,0 +1,17 @@
+Regulation 44C — Interpretation of Part 9A and of Part R of Schedule 1
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 9A — Infrastructure for electronic communications
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/44C
+XML metadata: in force from 2026-07-01
+
+In this Part and in Part R of Schedule 1—
+- “access point” means a physical point, located inside or outside the building, accessible to undertakings providing or authorised to provide public communications networks, where connection to the high-speed ready in-building physical infrastructure, or as the case requires the gigabit-ready physical infrastructure, is made available;
+- “gigabit-capable electronic communications network” means an electronic communications network that is capable of delivering broadband access services at download speeds of at least 1,000 Mbps;
+- “gigabit-capable public electronic communications network” means a public electronic communications network that is a gigabit-capable electronic communications network;
+- “gigabit-ready physical infrastructure” means physical infrastructure or installations, including elements under joint ownership, intended to host wired or wireless gigabit-capable public electronic communications networks;
+- “high-speed electronic communications network” means an electronic communications network which is capable of delivering broadband access services at speeds of at least 30 Mbps;
+- “high-speed ready in-building physical infrastructure” means in-building physical infrastructure intended to host elements, or enable delivery, of high-speed electronic communications networks;
+- “in-building physical infrastructure” means physical infrastructure or installations at the end-user’s location, including elements under joint ownership, intended to host wired or wireless access networks, where such access networks are capable of delivering electronic communications services and connecting the building access point with the network termination point;
+- “major renovation works” means works at the end-user’s location encompassing structural modifications of the entire in-building physical infrastructure, or of a significant part of it;
+- “network termination point” means a physical point at which an occupier is provided with access to high-speed electronic communications networks.
+- “public electronic communications network” has the meaning and “public electronic communications service” have the meanings given by section 151(1) of the Communications Act 2003.

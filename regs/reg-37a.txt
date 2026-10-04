@@ -1,0 +1,34 @@
+Regulation 37A — Provision of automatic fire suppression systems
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 7A — Automatic fire suppression systems
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/37A
+XML metadata: in force from 2024-12-17
+
+1. This regulation applies where building work consists of the erection or material change of use of a building in relation to—
+    (a) care homes, which means places at which a care home service, within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016, is provided wholly or mainly to persons aged 18 or over;
+    (aa) care homes for children, which means places at which a care home service, within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016, is provided wholly or mainly to persons aged under 18, but not—
+        (i) an institution within the further education sector as defined by section 91(3) of the Further and Higher Education Act 1992;
+        (ii) a place at which accommodation is provided for the purposes of—
+            (aa) a holiday;
+            (bb) a leisure, recreational, sporting, cultural or educational activity;
+        unless a person under 18 is accommodated there for more than 28 days in any 12 month period;
+    (b) rooms for residential purposes other than rooms in—
+        (i) a hostel providing temporary accommodation to those who are ordinarily resident elsewhere;
+        (ii) an hotel;
+        (iii) a prison or young offender institution; and
+        (iv) a hospital;
+    (c) dwelling-houses and flats,
+subject to paragraphs (4) and (5).
+2. For the purposes of this regulation a material change of use comprises or includes—
+    (a) a change of use within regulation 5(a), (b), (c), (d), (g), (h) or (i);
+    (b) a change in the purposes for which or the circumstances in which a building is used, so that after that change the building is used—
+        (i) as a building described in paragraph (1)(a) where previously it was used as a building described in paragraph (1)(aa), or
+        (ii) as a building described in paragraph (1)(aa) where previously it was used as a building described in paragraph (1)(a).
+2A. Regulation 6 does not apply to the material change of use described in paragraph (2)(b).
+3. A building to which this regulation applies must be provided with an automatic fire suppression system which is installed and operates in accordance with the requirements set in regulation 37B.
+4. This regulation does not apply to buildings which are—
+    (a) listed in accordance with section 76 of the Historic Environment (Wales) Act 2023;
+    (b) in a conservation area designated in accordance with section 158 of the Historic Environment (Wales) Act 2023; or
+    (c) included in the schedule of monuments maintained under section 3 of the Historic Environment (Wales) Act 2023,
+where installation of a fire suppression system would unacceptably alter their character or appearance.
+5. This regulation does not apply to temporary buildings with a planned time of use of two years or less.

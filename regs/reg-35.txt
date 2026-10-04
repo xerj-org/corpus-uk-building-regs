@@ -1,0 +1,22 @@
+Regulation 35 — Interpretation of Part 6
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 6 — Energy Efficiency Requirements
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/35
+XML metadata: in force from 2018-06-08; extent E and W
+
+1. In this Part—
+- “building” means the building as a whole or parts of it that have been designed or altered to be used separately;
+- “building envelope” in relation to a building means the walls, floor, roof, windows, doors, roof windows and roof-lights;
+- “Crown authority” means the Crown Estate Commissioners, a Minister of the Crown, a government department, any other person or body whose functions are performed on behalf of the Crown (not being a person whose functions are performed on behalf of Her Majesty in her private capacity), or a person acting in right of the Duchy of Lancaster or the Duchy of Cornwall;
+- “Crown interest” means an interest belonging to Her Majesty in right of the Crown, or belonging to a Government Department, or held in trust for Her Majesty for the purposes of a government department;
+- “Crown building” means a building in which there is a Crown interest or a Duchy interest;
+- “Duchy interest” means an interest belonging to her Majesty in right of the Duchy of Lancaster, or belonging to the Duchy of Cornwall;
+- “energy assessor” means an individual who is a member of an accreditation scheme approved by the Secretary of State in accordance with regulation 22 (accreditation schemes) of the Energy Performance of Buildings (England and Wales) Regulations 2012; ...
+- “energy performance certificate” means a certificate which complies with the requirements of regulation 9 (energy performance certificates) or 9A (energy performance certificates in respect of excluded buildings) of the Energy Performance of Buildings (England and Wales) Regulations 2012;”;
+- “energy performance of a building” means the calculated or measured amount of energy needed to meet the energy demand associated with a typical use of the building, which includes, inter alia, energy used for heating, cooling, ventilation, hot water and lighting;
+- “fabric energy efficiency” means the space heating and cooling requirements per square metre of floor area of a new dwelling;
+- “major renovation” means the renovation of a building where more than 25% of the surface area of the building envelope undergoes renovation; ...
+- “nearly zero-energy building” means a building that has a very high energy performance, as determined in accordance with a methodology approved under regulation 24, where the nearly zero or very low amount of energy required should be covered to a very significant extent by energy from renewable sources, including energy from renewable sources produced on-site or nearby;
+- “new dwelling” does not include a dwelling that is formed by a material change of use of a building.
+- ...
+2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .

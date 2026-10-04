@@ -1,0 +1,21 @@
+Regulation 44A — Application of paragraph R1 of Schedule 1 to educational buildings, buildings of statutory undertakers and Crown buildings
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 9A — Infrastructure for electronic communications
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/england
+This regulation has a different Wales version; it is appended below (the inline text above is the England version).
+XML metadata: in force from 2018-06-08; extent E
+
+1. The requirements of paragraph R1 (in-building physical infrastructure for high-speed electronic communications networks) of Schedule 1 apply (insofar as applicable to other buildings) also to—
+    (a) educational buildings and buildings of statutory undertakers (notwithstanding section 4(1) of the Act);
+    (b) Crown buildings; and
+    (c) building work carried out or proposed to be carried out by Crown authorities.
+2. In this regulation “educational buildings and buildings of statutory undertakers” means buildings that fall within paragraphs (a), (b) or (c) of section 4(1) of the Act
+
+--- ALTERNATIVE VERSION — applies in Wales only (XML Version container "v10039", RestrictExtent W) ---
+
+The requirements of paragraph R1 (in-building physical infrastructure for high-speed electronic communications networks) of Schedule 1 apply to—
+(a) educational buildings and buildings of statutory undertakers, falling within paragraphs (a), (b) or (c) of section 4(1) of the Act (notwithstanding section 4(1) of the Act);
+(b) Crown buildings; and
+(c) building work carried out or proposed to be carried out by Crown authorities.
+
+Source (Wales version): https://www.legislation.gov.uk/uksi/2010/2214/regulation/44A/wales

@@ -1,0 +1,31 @@
+Regulation 42 — Mechanical ventilation air flow rate testing
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 9 — Testing and Commissioning
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/england
+This regulation has a different Wales version; it is appended below (the inline text above is the England version).
+XML metadata: in force from 2026-07-01; extent E
+
+1. This regulation applies where paragraph F1(1) of Schedule 1 imposes a requirement in relation to the creation of a new dwelling by building work.
+2. The person carrying out the work shall, for the purpose of ensuring compliance with paragraph F1(1) of Schedule 1—
+    (a) ensure that testing of the mechanical ventilation air flow rate is carried out in accordance with a procedure approved by the Secretary of State; and
+    (b) give notice of the results of the testing to the building control authority .
+3. The notice referred to in paragraph (2)(b) shall—
+    (a) record the results and the data upon which they are based in a manner approved by the Secretary of State; and
+    (b) be given to the building control authority not later than five days after the final test is carried out.
+4. Where the regulator is the building control authority by virtue of section 91ZB of the Act (the regulator: building control authority for other work), it must send a copy of each notice it receives under this regulation in relation to a building to the local authority for the area in which the building is situated.
+
+--- ALTERNATIVE VERSION — applies in Wales only (XML Version container "v10016", RestrictExtent W) ---
+
+1. This regulation applies where paragraph F1(1) of Schedule 1 imposes a requirement in relation to—
+    (a) the creation of a new dwelling by building work; or
+    (b) an existing dwelling which undergoes building work for the provision or extension of any fixed building system for mechanical ventilation.
+1A. Paragraph (1)(b) excludes building work to which Schedule 4 applies.
+2. The person carrying out the work shall, for the purpose of ensuring compliance with paragraph F1(1) of Schedule 1—
+    (a) ensure that testing of the mechanical ventilation air flow rate is carried out in accordance with a procedure approved by the Secretary of State; and
+    (b) give notice of the results of the testing to the building control authority, other than when Schedules 3 or 4 apply.
+3. The notice referred to in paragraph (2)(b) shall—
+    (a) record the results and the data upon which they are based in a manner approved by the Secretary of State; and
+    (b) be given to the building control authority not later than five days after the final test is carried out.
+4. Where the building control authority is a designated local authority under section 91ZD of the Act, it must send a copy of each notice of the results of testing received under this regulation in relation to a building to the local authority for the area in which the building is situated.
+
+Source (Wales version): https://www.legislation.gov.uk/uksi/2010/2214/regulation/42/wales

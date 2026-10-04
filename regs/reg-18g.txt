@@ -1,0 +1,13 @@
+Regulation 18G — Appeal to the magistrates’ court in relation to certain decisions: Wales
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 3 — Notices, Plans and Certificates
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/18G
+XML metadata: in force from 2026-07-20; extent E and W
+
+1. An appeal to the magistrates’ court under section 19(4), 21(4) or 22(4) of the Act must be made within 15 ... days beginning with the day after the day on which the building control authority notifies the person of its decision.
+2. The magistrates’ court may allow an appeal referred to in paragraph (1) only if it is satisfied that the decision appealed against was wrong on one or more of the following grounds—
+    (a) that the decision was based on an error of fact;
+    (b) that the decision was wrong in law;
+    (c) that the decision was unreasonable;
+    (d) that the decision was made without following the procedures set out in the Act or regulations made under that Act.
+3. If the magistrates’ court allows an appeal referred to in paragraph (1) it may quash or vary the decision.

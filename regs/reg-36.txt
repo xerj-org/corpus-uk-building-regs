@@ -1,0 +1,29 @@
+Regulation 36 — Water efficiency of new dwellings
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 7 — Water Efficiency
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/england
+This regulation has a different Wales version; it is appended below (the inline text above is the England version).
+XML metadata: in force from 2018-11-01; extent E
+
+1. The potential consumption of wholesome water by persons occupying a new dwelling must not exceed the requirement in paragraph (2).
+2. The requirement referred to in paragraph (1) is either—
+    (a) 125 litres per person per day; or
+    (b) in a case to which paragraph (3) applies, the optional requirement of 110 litres per person per day,
+as measured in either case in accordance with a methodology approved by the Secretary of State.
+3. This paragraph applies where the planning permission under which the building work is carried out—
+    (a) specifies the optional requirement in paragraph (2)(b); and
+    (b) makes it a condition that that requirement must be complied with.
+4. In this Part, “new dwelling” does not include a dwelling that is formed by a material change of use of a building within the meaning of regulation 5(g).
+
+--- ALTERNATIVE VERSION — applies in Wales only (XML Version container "v10006", RestrictExtent W) ---
+
+1. This regulation applies where a dwelling is—
+    (a) erected; or
+    (b) formed by a material change of use of a building within the meaning of regulation 5(a) or (b).
+2. The potential consumption of wholesome water by persons occupying a dwelling to which this regulation applies must not exceed the requirement in paragraph (3).
+3. The requirement referred to in paragraph (2) is—
+    (a) where a dwelling is erected, 110 litres per person per day; or
+    (b) where a dwelling is formed by a material change of use of a building within the meaning of regulation 5(a) or (b), 125 litres per person per day,
+as measured in either case in accordance with a methodology approved by the Welsh Ministers.
+
+Source (Wales version): https://www.legislation.gov.uk/uksi/2010/2214/regulation/36/wales

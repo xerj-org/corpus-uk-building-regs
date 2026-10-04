@@ -1,0 +1,17 @@
+Regulation 44B — Exemptions from paragraph R1 of Schedule 1
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 9A — Infrastructure for electronic communications
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/44B
+XML metadata: in force from 2024-11-04
+
+The requirements of paragraph R1 (in-building physical infrastructure for high-speed electronic communications networks) of Schedule 1 do not apply to the following types of building or building work—
+(a) buildings which are—
+    (i) listed in accordance with section 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990 section 76 of the Historic Environment (Wales) Act 2023, or
+    (ii) in a conservation area designated in accordance with section 69 of that Act section 158 of the Historic Environment (Wales) Act 2023, or
+    (iii) included in the schedule of monuments maintained under section 1 of the Ancient Monuments and Archaeological Areas Act 1979 section 3 of the Historic Environment (Wales) Act 2023,
+where compliance with paragraph R1 of Schedule 1 would unacceptably alter their character or appearance;
+(b) buildings—
+    (i) occupied by the Ministry of Defence or the armed forces of the Crown, or
+    (ii) otherwise occupied for purposes connected to national security;
+(c) buildings situated in isolated areas where the prospect of high-speed connection is considered too remote to justify equipping the building with high-speed ready in-building physical infrastructure or an access point;
+(d) major renovation works in cases in which the cost of compliance with paragraph R1 of Schedule 1 would be disproportionate to the benefit gained.

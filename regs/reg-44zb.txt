@@ -1,0 +1,13 @@
+Regulation 44ZB — Exemptions from paragraphs RA1 and RA2 of Schedule 1
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 9A — Infrastructure for electronic communications
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/44ZB
+XML metadata: in force from 2022-12-26
+
+1. The requirements of paragraphs RA1 and RA2 of Schedule 1 (gigabit-ready physical infrastructure and connection to gigabit-capable network) do not apply to buildings—
+    (a) to be occupied by the Ministry of Defence or the armed forces of the Crown, or
+    (b) to be otherwise occupied for purposes connected to national security.
+2. The requirements of paragraph RA1 of Schedule 1 do not apply in relation to a building if all the following conditions are met—
+    (a) the building is situated in an area that is isolated from public electronic communications networks of any of the kinds mentioned in regulation 44ZC(2) or (3),
+    (b) paragraph RA2 of that Schedule does not apply because the case falls within regulation 44ZC(4), and
+    (c) the prospect of a connection with a network of any of the kinds mentioned in regulation 44ZC(2) or (3) is considered too remote to justify equipping the building with gigabit-ready physical infrastructure or an access point.

@@ -1,0 +1,23 @@
+Regulation 2D — Disapplication of certain procedural requirements of the Building Regulations 2010 in relation to higher-risk building work : Wales
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 1 — General
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/2D
+XML metadata: in force from 2026-07-01
+
+The following regulations do not apply to higher-risk building work in Wales—
+(a) regulation 12 (giving of a building notice or an application for building control approval);
+(b) regulation 13 (particulars and plans where a building notice is given);
+(c) regulation 14 (applications for building control approval with full plans);
+(d) regulation 14D (determination of applications for building control approval with full plans: Wales);
+(e) regulation 15 (consultation with sewerage undertaker);
+(f) regulation 15B (consultation in relation to fire safety: Wales);
+(g) regulation 16 (notices in relation to building work);
+(h) regulation 17 (completion certificates);
+(i) regulation 17A (certificate for building occupied before work is completed);
+(j) regulation 18 (unauthorised building work);
+(k) regulation 19 (supervision of building work otherwise than by local authorities);
+(l) regulation 38 (fire safety information);
+(m) regulation 39 (information about ventilation);
+(n) regulation 40 (information about use of fuel and power);
+(o) regulation 40A (information about systems for on-site generation of electricity);
+(p) regulation 40B (information about overheating).

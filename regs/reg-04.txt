@@ -1,0 +1,32 @@
+Regulation 4 — Requirements relating to building work
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 2 — Control of Building Work
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/4
+XML metadata: in force from 2023-06-05
+
+1. Subject to paragraph (2) building work shall be carried out so that—
+    (a) it complies with the applicable requirements contained in Schedule 1; and
+    (b) in complying with any such requirement there is no failure to comply with any other such requirement, except as may be provided for in paragraphs (1C) and (1D).
+1A. The applicable requirements contained in Schedule 1 are—
+    (a) the applicable requirements contained in Schedule 1 that apply in all cases, subject to paragraph (1C); and
+    (b) any applicable requirement contained in Schedule 1, and described in the first column of that Schedule as an optional requirement, that applies in relation to the building work in question by virtue of paragraphs (1B), (1C) and (1D).
+1B. An optional requirement as described in paragraph (1A)(b) shall apply to building work in any case where the planning permission under which the building work is carried out—
+    (a) specifies that optional requirement by reference to these Regulations; and
+    (b) makes it a condition that the requirement must be complied with.
+1C. An optional requirement shall apply in substitution for a requirement of Schedule 1 to the extent that the terms of the optional requirement in the second column of Schedule 1 so provide.
+1D. An optional requirement shall apply, and another optional requirement shall not apply, to the extent that the terms of the first-mentioned optional requirement in the second column of Schedule 1 so provide.
+2. Where—
+    (a) building work is of a kind described in regulation 3(1)(g), (h) or (i); and
+    (b) the carrying out of that work does not constitute a material alteration,
+that work need only comply with the applicable requirements of Part L of Schedule 1 (in addition to the requirements of regulation 7).
+3. Building work shall be carried out so that, after it has been completed—
+    (a) any building which is extended or to which a material alteration is made; or
+    (b) any building in, or in connection with, which a controlled service or fitting is provided, extended or materially altered; or
+    (c) any controlled service or fitting,
+complies with the applicable requirements of Schedule 1 or, where it did not comply with any such requirement, is no more unsatisfactory in relation to that requirement than before the work was carried out.
+4. This paragraph applies in relation to a building where—
+    (a) building work is undertaken in respect of that building (“relevant work”); and
+    (b) Part L of Schedule 1 imposes a requirement in respect of the relevant work.
+5. Notwithstanding paragraph (3), upon completion of the relevant work, any building to which paragraph (4) applies must—
+    (a) comply with Part F of Schedule 1; or
+    (b) where the building did not comply with Part F of Schedule 1 before the relevant work was begun, be no more unsatisfactory in relation to it than before the work was begun.

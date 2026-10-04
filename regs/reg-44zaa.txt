@@ -1,0 +1,14 @@
+Regulation 44ZAA — Particulars of connection to public electronic communications network
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 9A — Infrastructure for electronic communications
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/44ZAA
+XML metadata: in force from 2026-07-01
+
+1. This regulation applies to building work consisting of the erection of a dwelling or a building that is to contain one or more dwellings.
+2. Not later than the day before the work described in paragraph (1) starts, the person carrying out that work shall supply to the building control authority—
+    (a) particulars of any public electronic communications network in relation to which a connection is to be provided,
+    (b) if an exemption in regulation 44ZB is proposed to be relied on, evidence in support of the exemption, and
+    (c) if regulation 44ZC is proposed to be relied on—
+        (i) evidence of the matters mentioned in regulation 44ZC(6)(a) and (b), and
+        (ii) if paragraph RA1(1)(c)(i) or (ii) of Schedule 1 is also proposed to be relied on, evidence of the steps taken to establish whether, and if so where, a distribution point for a gigabit-capable public electronic communications network (as defined by regulation 44C) is likely to be installed, in a location relevant for the purposes of paragraph RA1(1)(c), within the period of 2 years beginning with the day on which either a building notice, initial notice or public body’s notice is given..
+3. Where the building control authority is a designated local authority under section 91ZD of the Act, it must send a copy of the information it receives under this regulation in relation to a building to the local authority for the area in which the building is situated.

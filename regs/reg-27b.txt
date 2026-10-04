@@ -1,0 +1,24 @@
+Regulation 27B — Fabric performance values calculations
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 6 — Energy Efficiency Requirements
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/27B
+XML metadata: in force from 2026-07-20; extent E and W
+
+1. This regulation applies where a dwelling is erected and regulation 26B applies.
+2. The person carrying out the work must—
+    (a) where the dwelling is within a higher-risk building, ensure the application for building control approval in relation to the work is accompanied by a notice which specifies—
+        (i) the target fabric performance values for the dwelling, calculated and expressed by the methodology approved under regulation 24,
+        (ii) the fabric energy performance values for the dwelling as designed, calculated and expressed by the methodology approved pursuant to regulation 24, and
+        (iii) a list of specifications to which the dwelling is to be constructed;
+    (b) in any other case, not later than the day before the work starts give the building control authority a notice which specifies the matters set out in paragraphs (i) to (iii) of sub-paragraph (a).
+3. The person carrying out the work must—
+    (a) where the dwelling is within a higher-risk building, ensure the completion certificate application in relation to the work is accompanied by—
+        (i) a notice which specifies—
+            (aa) the target fabric performance values for the dwelling, calculated and expressed by the methodology approved pursuant to regulation 24,
+            (bb) the fabric energy performance values for the dwelling as constructed, calculated and expressed by the methodology approved pursuant to regulation 24, and
+            (cc) whether the dwelling has been constructed by the list of specifications referred to in paragraph (2), and if not, a list of any changes to those specifications, or
+        (ii) a certificate of the sort referred to in paragraph (4) accompanied by the information referred to in sub-paragraphs (aa) to (cc) of paragraph (i);
+    (b) in any other case, not later than 5 days after the work has been completed give the building control authority a notice which specifies the matters mentioned in sub-paragraphs (aa) to (cc) of sub-paragraph (a)(i) or a certificate of the sort mentioned in sub-paragraph (a)(ii).
+4. A building control authority is authorised to accept, as evidence that the requirements of regulation 26B have been satisfied, a certificate to that effect by an energy assessor who is accredited to produce energy performance certificates for that category of building.
+4A. Where the building control authority is a designated local authority under section 91ZD of the Act, it must send a copy of each notice or certificate it receives under this regulation in relation to a building to the local authority for the area in which the building is situated.
+5. In this regulation, “specifications” means specifications used for the calculation of the fabric performance values.

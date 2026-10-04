@@ -1,0 +1,7 @@
+Regulation 11P — Minor work
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 2A — Dutyholders and competence
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/11P
+XML metadata: in force from 2023-10-01
+
+A client is not required to comply with this Part where the building work or design work consists only of work described in Schedule 4.

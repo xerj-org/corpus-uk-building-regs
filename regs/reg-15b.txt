@@ -1,0 +1,14 @@
+Regulation 15B — Consultation in relation to fire safety: Wales
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 3 — Notices, Plans and Certificates
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/15B
+XML metadata: in force from 2026-07-20; extent E and W
+
+1. This regulation applies where it is proposed—
+    (a) to erect, extend or make any material alteration to a building to which the Regulatory Reform (Fire Safety) Order 2005 applies or will apply after completion of the work, or
+    (b) to change the use of a building, or part of a building, to which the Regulatory Reform (Fire Safety) Order 2005 applies or will apply after the change of use, and
+    (c) in connection with that proposal, an application for building control approval with full plans is given to the building control authority.
+2. Where this regulation applies the building control authority must consult the enforcing authority before determining the application for building control approval with full plans given to the building control authority.
+3. The duty to consult imposed by paragraph (2) does not apply where the building control authority is the enforcing authority.
+4. Where a building control authority are required to consult the enforcing authority, they must not grant the application for building control approval until 15 ... days have elapsed from the date on which they consulted the enforcing authority, unless the enforcing authority has expressed its views to them before the expiry of those 15 ... days.
+5. In this regulation “enforcing authority” has the same meaning as in article 25 of the Regulatory Reform (Fire Safety) Order 2005.

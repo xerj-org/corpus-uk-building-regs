@@ -1,0 +1,30 @@
+Regulation 16A — Levy charging information
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 3 — Notices, Plans and Certificates
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/16A
+XML metadata: in force from 2026-10-01; extent E and W
+
+1. The “levy charging information” is—
+    (a) a statement as to whether the previous development condition is met in respect of the relevant building application, and
+    (b) the following information in relation to each relevant residential building to which the relevant building application relates—
+        (i) the floorspace information in relation to the building on completion of the building work to which the relevant building application relates, and
+        (ii) if the building is a relevant residential building at the time the relevant building application was made, the floorspace information in relation to the building at that time.
+2. Subject to paragraphs (5) to (7), the “relevant building application” means—
+    (a) where the levy charging information is required by regulation 16(3CA) to be included in a notice under regulation 16(3C), the application for building control approval with full plans to which the notice relates;
+    (b) where the levy charging information is required under regulation 14(1)(h) to be included in an application, the updated application referred to in that regulation.
+3. The “floorspace information” is—
+    (a) the gross internal area of each ordinary residential dwelling;
+    (b) the gross internal area of purpose-built student accommodation;
+    (c) the gross internal area of each area of communal space for residents;
+    (d) in relation to each area of communal space for residents, a statement as to whether it is within—
+        (i) regulation 11(1)(a) of the BSL Regulations, or
+        (ii) regulation 11(1)(b) of the BSL Regulations;
+    (e) in relation to each area of communal space for residents that is within regulation 11(1)(b) of the BSL Regulations—
+        (i) the gross internal area of each of the relevant residential units within regulation 11(1)(b)(i), and
+        (ii) the gross internal area of each of the other units within regulation 11(1)(b)(ii).
+4. For the purposes of any calculation under paragraph (3), it is to be assumed that the building work is carried out in accordance with—
+    (a) the relevant building application, and
+    (b) the planning permission and any agreement under section 106 of TCPA 1990, or as the case may be the development consent under section 31 of the Planning Act 2008, for the development to which the building work relates.
+5. In the case of a relevant building application that relates to part of a relevant residential building references in this regulation to the relevant residential building are to be treated as references to the part of the building to which the application relates.
+6. Subject to paragraph (7), where the relevant building application is a variation application that is treated, for the purposes of the BSL Regulations, as an updated application, references in this regulation to the application are to be treated as references to the updated application comprising the variation application, the original application to which it relates and any other variation applications relating to that original application.
+7. If the levy charging information is provided in relation to an updated application, the reference in paragraph (1)(b)(ii) to the relevant building application is to be treated as a reference to the original application.

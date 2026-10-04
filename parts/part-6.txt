@@ -1,0 +1,32 @@
+PART 6 — Energy Efficiency Requirements
+Building Regulations 2010 (SI 2010/2214), current version, fetched 2026-10-04
+Source: https://www.legislation.gov.uk/uksi/2010/2214/part/6
+
+Index of provisions in this Part (files under regs/):
+
+  reg 21: Application of energy efficiency requirements
+  reg 22: Requirements relating to a change to energy status
+  reg 23: Requirements for the renovation or replacement of thermal elements
+  reg 24: Methodology of calculation and expression of energy performance
+  reg 25: Minimum energy performance requirements for new buildings [England text; Wales variant appended in file]
+  reg 25A: Consideration of high-efficiency alternative systems for new buildings [England text; Wales variant appended in file]
+  reg 25B: Nearly zero-energy requirements for new buildings
+  reg 25C: New buildings: minimum energy performance requirements
+  reg 25D: Energy efficiency rating
+  reg 26: 2
+  reg 26A: Fabric energy efficiency rates [England text; Wales variant appended in file]
+  reg 26B: Fabric performance values for new dwellings
+  reg 26C: Target primary energy rates for new buildings [England text; Wales variant appended in file]
+  reg 27: 2 [England text; Wales variant appended in file]
+  reg 27A: Fabric energy efficiency rate calculations [England text; Wales variant appended in file]
+  reg 27B: Fabric performance values calculations
+  reg 27C: Target primary energy rate calculations for new buildings [England text; Wales variant appended in file]
+  reg 28: Consequential improvements to energy performance [England text; Wales variant appended in file]
+  reg 29: Energy performance certificates
+  reg 29A: Recommendation reports
+  reg 30: Energy assessors
+  reg 31: Related party disclosures
+  reg 32: Duty of care
+  reg 33: Right to copy documents
+  reg 34: Application of building regulations to educational buildings, buildings of statutory undertakers and Crown Buildings
+  reg 35: Interpretation of Part 6

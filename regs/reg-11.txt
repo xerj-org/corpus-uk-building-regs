@@ -1,0 +1,9 @@
+Regulation 11 — Power to dispense with or relax requirements
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 2 — Control of Building Work
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/11
+XML metadata: in force from 2026-07-01
+
+1. Subject to paragraph (3), the power under section 8(1) of the Act to dispense with or relax any requirement contained in these Regulations shall be exercisable by the local authority.
+2. Any notification by the building control authority to an applicant that they have refused the applicant's application to dispense with or relax any requirement of these Regulations shall inform the applicant of the effect of section 39(1) and (3) of the Act (appeal against refusal etc. to relax building regulations).
+3. Sub-sections (1) to (5) of section 8 of the Act (relaxation of building regulations) do not apply to regulations 23(1)(a), 25A, 25B, and 26 ... and paragraph R1 (in-building physical infrastructure for high-speed electronic communications networks) of Schedule 1.

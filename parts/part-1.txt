@@ -1,0 +1,12 @@
+PART 1 — General
+Building Regulations 2010 (SI 2010/2214), current version, fetched 2026-10-04
+Source: https://www.legislation.gov.uk/uksi/2010/2214/part/1
+
+Index of provisions in this Part (files under regs/):
+
+  reg 1: Citation and commencement
+  reg 2: Interpretation
+  reg 2A: Application
+  reg 2B: Disapplication of certain procedural requirements of the Building Regulations 2010 in relation to higher-risk building work
+  reg 2C: Application: Wales
+  reg 2D: Disapplication of certain procedural requirements of the Building Regulations 2010 in relation to higher-risk building work : Wales

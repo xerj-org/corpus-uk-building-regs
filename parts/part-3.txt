@@ -1,0 +1,32 @@
+PART 3 — Notices, Plans and Certificates
+Building Regulations 2010 (SI 2010/2214), current version, fetched 2026-10-04
+Source: https://www.legislation.gov.uk/uksi/2010/2214/part/3
+
+Index of provisions in this Part (files under regs/):
+
+  reg 12: an application for building control approval [England text; Wales variant appended in file]
+  reg 13: Particulars and plans where a building notice is given
+  reg 14: Applications for building control approval with full plans [England text; Wales variant appended in file]
+  reg 14ZA: Building safety levy information
+  reg 14A: Determination of applications for building control approval with full plans
+  reg 14B: Appeal against a local authority’s rejection of an application for building control approval
+  reg 14C: Appeal against the regulator’s rejection of an application for building control approval for work that is not higher-risk building work
+  reg 14D: Determination of applications for building control approval with full plans: Wales
+  reg 14E: Appeal against a building control authority’s rejection of an application for building control approval: Wales
+  reg 15: Consultation with sewerage undertaker [England text; Wales variant appended in file]
+  reg 15A: Consultation in relation to fire safety
+  reg 15B: Consultation in relation to fire safety: Wales
+  reg 16: Notices in relation to building work [England text; Wales variant appended in file]
+  reg 16A: Levy charging information
+  reg 17: Completion certificates [England text; Wales variant appended in file]
+  reg 17A: Certificate for building occupied before work is completed [England text; Wales variant appended in file]
+  reg 18: Unauthorised building work [England text; Wales variant appended in file]
+  reg 18A: Appeal against refusal to grant certain certificates
+  reg 18B: Appeal in relation to sections 20(5) or 39 of the Act
+  reg 18C: Appeal to the First-tier Tribunal in relation to certain decisions
+  reg 18D: Application to the First-tier Tribunal in relation to certain decisions
+  reg 18E: Appeals under section 101A of the Act
+  reg 18F: Appeal in relation to section 42 of the Act: Wales
+  reg 18G: Appeal to the magistrates’ court in relation to certain decisions: Wales
+  reg 18H: Application to the magistrates’ court in relation to certain decisions: Wales
+  reg 18I: Appeals under section 101A of the Act: Wales

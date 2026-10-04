@@ -1,0 +1,10 @@
+Regulation 19A — Regulator’s notices: description of work and connection
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 4 — Supervision of Building Work Otherwise than by Local Authorities
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/19A
+XML metadata: in force from 2023-10-01
+
+For the purposes of section 91ZB(1) of the Act, a regulator’s notice may be given in relation to any building work (which is not higher-risk building work) where—
+(a) the client for the building work is proposing to undertake higher-risk building work on the same site;
+(b) the regulator’s notice includes all the building work to be carried out on the site which is not higher-risk building work; and
+(c) the client has appointed the same principal contractor for the building work and the higher-risk building work.

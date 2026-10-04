@@ -1,0 +1,66 @@
+Regulation 47 — Contravention of certain regulations not to be an offence
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 10 — Miscellaneous
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/england
+This regulation has a different Wales version; it is appended below (the inline text above is the England version).
+XML metadata: in force from 2026-07-20; extent E
+
+The following regulations are designated as provisions to which section 35 of the Act (penalty for contravening building regulations) does not apply—
+    (i) regulation 14A (determination of applications for building control approval with full plans),
+    (ii) regulation 15A (consultation in relation fire safety),
+    (iii) regulation 16(3D) and (3E) (notice as to commencement of work),
+    (iv) regulation 17 (completion certificates),
+    (v) regulation 17A (certificate for building occupied before work is completed),
+    (vi) regulation 18(6A) (unauthorised building work),
+    (vii) regulation 18E(8) and (12) (appeals under section 101A of the Act),
+    (viii) regulation 19C(2) (regulator’s notices: grounds for rejection),
+    (ix) regulation 19E (regulator’s notices: direction),
+    (x) regulation 20(6A) (provisions applicable to self-certification schemes),
+    (xi) regulation 20A(7A) (provisions applicable to third party certification schemes),
+    (xii) regulation 25A(3A) (consideration of high-efficiency alternative systems for new buildings),
+    (xiii) regulation 27(4A) (CO2 emission rate calculations),
+    (xiv) regulation 27A(4A) (fabric energy efficiency rate calculations),
+    (xv) regulation 27C(4A) (target primary energy rate calculations for new buildings),
+    (xvi) regulation 37(3) (wholesome water consumption calculation),
+    (xvii) regulation 41(3A) (sound insulation testing),
+    (xviii) regulation 42(4) (mechanical ventilation air flow rate testing),
+    (xix) regulation 43(6) (pressure testing),
+    (xx) regulation 44(5) (commissioning),
+    (xxi) regulation 44ZA(4) (commissioning in respect of a system for on-site electricity generation),
+    (xxii) regulation 47B (compliance notices: contents),
+    (xxiii) regulation 47C (stop notices: contents),
+    (xxiv) regulation 47D(3) (compliance and stop notices: notification),
+    (xxv) regulation 47E(2) (compliance and stop notices: withdrawal), and
+(b) regulations 23, 25B and 26, in so far as these Regulations apply to Crown buildings or to building work carried out or proposed to be carried out by Crown authorities.
+
+--- ALTERNATIVE VERSION — applies in Wales only (XML Version container "v10019", RestrictExtent W) ---
+
+The following regulations are designated as provisions to which section 35 of the Act (penalty for contravening building regulations) does not apply—
+(a) regulations—
+    (i) 14D (determination of applications for building control approval with full plans: Wales);
+    (ii) 15B (consultation in relation fire safety: Wales);
+    (iii) 16(2B) and (2C) (notices in relation to building work);
+    (iv) 17 (completion certificates);
+    (v) 17A (certificate for building occupied before work is completed);
+    (vi) 18(6A) (unauthorised building work);
+    (vii) 18I(8) and (12) (appeals under section 101A of the Act: Wales);
+    (viii) 20(6A) (provisions applicable to self-certification schemes);
+    (ix) 25A(3A) (consideration of high-efficiency alternative systems for new buildings);
+    (x) 27(4A) (CO2 emission rate calculations);
+    (xi) 27A(4A) (primary energy rate calculations);
+    (xii) 27B(4A) (fabric performance values calculations);
+    (xiii) 27C(5) (energy efficiency rating calculations);
+    (xiv) 37(3) (wholesome water consumption calculation);
+    (xv) 41(3A) (sound insulation testing);
+    (xvi) 42(4) (mechanical ventilation air flow rate testing);
+    (xvii) 43(6) (pressure testing);
+    (xviii) 44(5) (commissioning);
+    (xix) 44ZA(4) (commissioning in respect of a system for on-site electricity generation);
+    (xx) 44ZAA(3) (particulars of connection to public electronic communications network);
+    (xxi) 47J (compliance notices: contents: Wales);
+    (xxii) 47K (stop notices: contents: Wales);
+    (xxiii) 47L(3) (compliance notices and stop notices: giving of notices and notification to others: Wales);
+    (xxiv) 47M(2) (compliance and stop notices: withdrawal: Wales), and
+(b) regulations 23, 25B and 26, in so far as these Regulations apply to Crown buildings or to building work carried out or proposed to be carried out by Crown authorities.
+
+Source (Wales version): https://www.legislation.gov.uk/uksi/2010/2214/regulation/47/wales

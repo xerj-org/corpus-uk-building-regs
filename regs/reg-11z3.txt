@@ -1,0 +1,13 @@
+Regulation 11Z3 — Additional duties of contractors: Wales
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 2B - WALES — Dutyholders and competence
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/11Z3
+XML metadata: in force from 2026-07-01
+
+1. A contractor must not start any building work unless satisfied that the client is aware of the duties owed by the client under all relevant requirements.
+2. A contractor must—
+    (a) ensure the building work they carry out complies with all relevant requirements, and
+    (b) provide each worker under their control with appropriate supervision, instructions and information so as to ensure that the building work complies with all relevant requirements.
+3. In relation to building work, a contractor must take all reasonable steps to provide sufficient information about the work to assist the client, other contractors and designers to comply with all relevant requirements.
+4. Where a contractor is carrying out only part of the building work which comprises a project, the contractor must consider other work which directly relates to that building work and report any concerns as to compliance with all relevant requirements to the principal contractor.
+5. If requested to do so, a contractor must provide advice to the principal contractor or the client on whether any work is higher-risk building work.

@@ -1,0 +1,26 @@
+Regulation 28 — Consequential improvements to energy performance
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 6 — Energy Efficiency Requirements
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/england
+This regulation has a different Wales version; it is appended below (the inline text above is the England version).
+XML metadata: in force from 2019-01-01; extent E
+
+1. Paragraph (2) applies to an existing building with a total useful floor area over 1,000m2 where the proposed building work consists of or includes—
+    (a) an extension;
+    (b) the initial provision of any fixed building services; or
+    (c) an increase to the installed capacity of any fixed building services.
+2. Subject to paragraph (3), where this paragraph applies, such work, if any, shall be carried out as is necessary to ensure that the building complies with the requirements of Part L of Schedule 1.
+3. Nothing in paragraph (2) requires work to be carried out if it is not technically, functionally and economically feasible.
+
+--- ALTERNATIVE VERSION — applies in Wales only (XML Version container "v10003", RestrictExtent W) ---
+
+1. Paragraph (3) applies to an existing building with a total useful floor area over 1000m2 where the proposed building work consists of or includes—
+    (a) the initial provision of any fixed building services; or
+    (b) an increase to the installed capacity of any fixed building services.
+2. Paragraph (3) applies to an existing building where the proposed building work consists of or includes—
+    (a) an extension; or
+    (b) the extension of the building’s heating system or the provision of a fixed heating appliance, to heat a previously unheated space.
+3. Subject to paragraph (4), where this paragraph applies, such work, if any, shall be carried out as is necessary to ensure that the building complies with the requirements of Part L of Schedule 1.
+4. Nothing in paragraph (3) requires work to be carried out if it is not technically, functionally and economically feasible.
+
+Source (Wales version): https://www.legislation.gov.uk/uksi/2010/2214/regulation/28/wales

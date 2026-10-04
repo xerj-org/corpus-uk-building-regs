@@ -1,0 +1,57 @@
+SCHEDULE 4 — Descriptions of Work where no Building Notice or an application for building control approval with full plans Required
+Building Regulations 2010 (SI 2010/2214), current version, fetched 2026-10-04
+Source: https://www.legislation.gov.uk/uksi/2010/2214/schedule/4
+XML metadata: in force from 2026-07-01; extent E+W
+
+1. Work consisting of—
+    (a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    (c) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    (d) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    (e) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    (f) in relation to an existing fixed building service, which is not a fixed internal or external lighting system—
+        (i) replacing any part which is not a combustion appliance,
+        (ii) adding an output device, or
+        (iii) adding a control device,
+    where testing and adjustment of the work is not possible or would not affect the use by the fixed building service of no more fuel and power than is reasonable in the circumstances;
+    (g) providing a self-contained fixed building service, which is not a fixed internal or external lighting system, where—
+        (i) it is not a combustion appliance (other than a fixed flueless gas cooker),
+        (ii) any electrical work associated with its provision is exempt from the requirement to give a building notice or an application for building control approval with full plans by virtue of regulation 9 or 12(6A),
+        (iii) testing and adjustment is not possible or would not affect its energy efficiency, and
+        (iv) in the case of a mechanical ventilation appliance, the appliance is not installed in a room containing an open-flued combustion appliance whose combustion products are discharged through a natural draught flue;
+    (h) replacing an external door (where the door together with its frame has not more than 50% of its internal face area glazed);
+    (i) in existing buildings other than dwellings, providing fixed internal lighting where no more than 100m2 of the floor area of the building is to be served by the lighting;
+    (j) replacing—
+        (i) a sanitary convenience with one that uses no more water than the one it replaces,
+        (ii) a washbasin, sink or bidet,
+        (iii) a fixed bath,
+        (iv) a shower,
+        (v) a rainwater gutter, or
+        (vi) a rainwater downpipe,
+    where the work does not include any work to underground drainage, and includes no work to the hot or cold water system or above ground drainage, which may prejudice the health or safety of any person on completion of the work;
+    (k) in relation to an existing cold water supply—
+        (i) replacing any part,
+        (ii) adding an output device, or
+        (iii) adding a control device;
+    (l) providing a hot water storage system that has a storage vessel with a capacity not exceeding 15 litres, where any electrical work associated with its provision is exempt from the requirement to give a building notice or an application for building control approval with full plans by virtue of regulation 9 or 12(6)(b);
+    (m) installation of thermal insulation in a roof space or loft space where—
+        (i) the work consists solely of the installation of such insulation, and
+        (ii) the work is not carried out in order to comply with any requirement of these Regulations.
+2. Work which—
+    (a) is not in a kitchen, or a special location;
+    (b) does not involve work on a special installation; and
+    (c) consists of—
+        (i) adding light fittings and switches to an existing circuit, or
+        (ii) adding socket outlets and fused spurs to an existing ring or radial circuit.
+3. Work on—
+    (a) telephone wiring or extra-low voltage wiring for the purposes of communications, information technology, signalling, control and similar purposes, where the wiring is not in a special location;
+    (b) equipment associated with the wiring referred to in sub-paragraph (a);
+    (c) pre-fabricated equipment sets and associated flexible leads with integral plug and socket connections.
+3A. Installation of thermal insulation to suspended timber floors where the work—
+    (a) consists of the installation of such insulation only; and
+    (b) the work is not carried out in order to comply with any requirements of these Regulations.
+4. For the purposes of this Schedule—
+- “kitchen” means a room or part of a room which contains a sink and food preparation facilities;
+- “self-contained” in relation to a fixed building service means consisting of a single appliance and any associated controls which is neither connected to, nor forms part of, any other fixed building service;
+- “special installation” means an electric floor or ceiling heating system, an outdoor lighting or electric power installation, an electricity generator, or an extra-low voltage lighting system which is not a pre-assembled lighting set bearing the CE marking referred to in regulation 39 of the Electrical Equipment (Safety) Regulations 2016;
+- “special location” means a location within the limits of the relevant zones specified for a bath, a shower, a swimming or paddling pool or a hot air sauna in the Wiring Regulations, seventeenth edition, published by the Institution of Electrical Engineers and the British Standards Institution as BS 7671: 2008.

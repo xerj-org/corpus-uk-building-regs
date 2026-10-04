@@ -1,0 +1,8 @@
+Regulation 40A — Information about systems for on-site generation of electricity
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 8 — Information to be Provided by the Person Carrying Out Work
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/40A
+XML metadata: in force from 2023-06-05
+
+1. This regulation applies to building work in respect of a building in relation to which paragraph L2 of Schedule 1 applies.
+2. The person carrying out the work must, not later than five days after the work has been completed, provide to the owner sufficient information about the system for on-site electricity generation in respect of its operation and maintenance requirements so that the system may be operated and maintained in such a manner as to produce the maximum electricity that is reasonable in the circumstances and delivers this electricity to the optimal place for use.

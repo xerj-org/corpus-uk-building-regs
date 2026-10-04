@@ -1,0 +1,18 @@
+Regulation 46B — Lapse of building control approval: commencement of work: Wales
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 10 — Miscellaneous
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/46B
+XML metadata: in force from 2026-07-01
+
+1. For the purposes of section 32(6) of the Act (lapse of building control approval) work is to be regarded as commenced in accordance with the following paragraphs.
+2. Where the work consists of the construction of a complex building, work is to be regarded as commenced in relation to that building or the first stage of building work for that building when the foundations supporting the building and the structure of the lowest floor level of that building (but not the other buildings or structures to be supported by those foundations) are completed.
+3. Where the work consists of—
+    (a) the construction of a building and paragraph (2) does not apply, or
+    (b) horizontal extension of a building,
+work is to be regarded as commenced when the sub-surface structure of the building or the extension including all foundations, any basement level (if any) and the structure of ground floor level is completed.
+4. Where the work consists of any other building work, and that work will be incorporated into the completed building, then the work is to be regarded as commenced when—
+    (a) it reaches the point at which the project requires building control input, and
+    (b) without such building control input, at that point, there would be grounds for enforcement.
+5. In this regulation—
+- “complex building” means—a building which is to be constructed on the same foundation plinth or podium as any other building or structure;a building which has more than one storey below ground level;a building where it is proposed use is primarily as a public building where the public or a section of the public has access to the building (whether or not on payment) provided that the building has a capacity for 100 or more visitors;
+- “public building” means—a shop or shopping centre;premises where food or drink are sold for consumption on the premises, including a nightclub, social club or dance hall;a stadium, theatre, cinema, concert hall;a sports ground;an exhibition hall or conference centre;a hospital or premises for the provision of health care.

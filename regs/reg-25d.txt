@@ -1,0 +1,7 @@
+Regulation 25D — Energy efficiency rating
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 6 — Energy Efficiency Requirements
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/25D
+XML metadata: in force from 2022-11-23
+
+Energy efficiency ratings must be approved by the Welsh Ministers, applying the methodology of calculation and expression of the energy performance of buildings approved pursuant to regulation 24 for new buildings.

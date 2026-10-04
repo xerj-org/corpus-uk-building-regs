@@ -1,0 +1,13 @@
+SCHEDULE 6 — Consequential Amendments
+Building Regulations 2010 (SI 2010/2214), current version, fetched 2026-10-04
+Source: https://www.legislation.gov.uk/uksi/2010/2214/schedule/6
+XML metadata: in force from 2013-01-09; extent E+W
+
+1. In the Building (Local Authority Charges) Regulations 2010 —
+    (a) in regulation 2, in the definition of “the Principal Regulations” for “2000” substitute “ 2010 ”;
+    (b) in regulation 5(1)(e) for “21” substitute “ 18 ”;
+    (c) in regulation 7(5)—
+        (i) in sub-paragraph (g) for “12(5) or 20B(4)” substitute “ 12(6) or 43(4) ”;
+        (ii) in sub-paragraph (h) for “20A(4)” substitute “ 41(4) ”;
+    (d) in regulation 8(1)(e) for “21” substitute “ 18 ”.
+2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .

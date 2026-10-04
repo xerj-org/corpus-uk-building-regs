@@ -1,0 +1,8 @@
+PART 7A — Automatic fire suppression systems
+Building Regulations 2010 (SI 2010/2214), current version, fetched 2026-10-04
+Source: https://www.legislation.gov.uk/uksi/2010/2214/part/7a
+
+Index of provisions in this Part (files under regs/):
+
+  reg 37A: Provision of automatic fire suppression systems
+  reg 37B: Requirements of automatic fire suppression systems

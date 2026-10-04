@@ -1,0 +1,159 @@
+Regulation 16 — Notices in relation to building work
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 3 — Notices, Plans and Certificates
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/england
+This regulation has a different Wales version; it is appended below (the inline text above is the England version).
+XML metadata: in force from 2026-10-01; extent E
+
+1. Subject to paragraphs (8) and (9), a person who proposes to carry out building work shall not start that work unless—
+    (a) that person has given the relevant authority notice of intention to start work; and
+    (b) at least two days have elapsed since the end of the day on which the notice was given.
+2. Subject to paragraph (8), a person carrying out building work must notify the relevant authority as required by the authority in accordance with paragraph (3).
+3. Subject to the conditions in paragraphs (3A) and (3B), where a relevant authority receives notice of intention to start work under paragraph (1) they may give the person carrying out the work a notice in writing which—
+    (a) requires that person to notify the authority that a specified stage of the work (other than a stage specified in paragraphs (4) and (5)) has been reached; and
+    (b) may specify one or more periods of time, applying to each such required notification, which may be either or both of the following—
+        (i) a period before or after the work has been carried out within which the notification must be made; and
+        (ii) a period during which the work concerned must not be covered up.
+3A. A relevant authority may only specify a stage of the building work in accordance with paragraph (3)(a) if at the time they do so they intend to carry out an inspection of that stage.
+3B. For the purposes of paragraph (3A) the relevant authority's intention to carry out an inspection of a stage of building work must be based on their assessment of the risk of breach of these Regulations if they do not inspect the work.
+3C. Not more than five days after the day on which work is to be regarded as commenced the person carrying out the work must give a notice to that effect to the relevant authority.
+(3CA) Subject to paragraphs (3CB) and (3CC), where building work, to which an application for building control approval with full plans relates, relates to the provision of one or more dwellings, or one or more bedspaces in purpose-built student accommodation, and the building which consists of or contains the dwellings or bedspaces is a residential building (as defined in regulation 7 of the BSL Regulations), a notice under paragraph (3C) must also—
+    (a) if the levy charging conditions are met, but subject to sub-paragraph (c)—
+        (i) include a statement setting out the number of dwellings, if any, to be provided as a result of the building work to which the application for building control approval with full plans relates which are within any of sub-paragraphs (a) to (c) of regulation 8(1) of the BSL Regulations;
+        (ii) include a statement setting out the levy charging information, in accordance with regulation 16A (levy charging information), in relation to the application for building control approval with full plans to which the notice relates;
+        (iii) include a statement setting out the applicable planning information;
+        (iv) be accompanied by evidence as to the matters described in paragraphs (i), (ii) and (iii),
+    (b) if the levy charging conditions are not met, but subject to sub-paragraph (c)—
+        (i) include a statement setting out the applicable planning information;
+        (ii) include a statement explaining how the levy charging conditions are not met;
+        (iii) be accompanied by evidence as to the matters described in paragraphs (i) and (ii), ...
+    (c) if a statement or evidence required under sub-paragraph (a) or (b) has been given previously in relation to the building work to which the application for building control approval with full plans relates, include a statement to that effect instead of the statement or evidence .
+(3CB) Where the application for building control approval with full plans referred to in paragraph (3CA) is an application relating to building work in respect of which the regulator is the building control authority under section 91ZB(2) of the 1984 Act—
+    (a) the evidence required to accompany a notice under paragraph (3C) must instead be sent to the collecting authority together with a statement identifying the application to which the evidence relates;
+    (b) the documents referred to in sub-paragraph (a) must be sent to the collecting authority, by the client, on the same day that the notice under paragraph (3C) is sent to the regulator.
+(3CC) Where, in relation to the application for building control approval with full plans referred to in paragraph (3CA), no statement under regulation 14ZA(1)(c) to (f) has previously been required, the notice under paragraph (3C) must include whichever of those statements under regulation 14ZA(1)(c) to (f) that is applicable.
+3D. The relevant authority may take such steps, including—
+    (a) requiring information;
+    (b) laying open of work for inspection,
+as the authority thinks appropriate to check whether the work is to be regarded as commenced.
+3E. If the relevant authority are not satisfied the work is to be regarded as commenced they must give the person carrying out the work a notice to that effect (“rejection notice”) within four weeks of the date the notice under paragraph (3C) is given, and the rejection notice must give the reasons for rejection.
+3F. Where a notice is given under paragraph (3C) and the period referred to in paragraph (3E) expires without a rejection notice being given, then the work is to be regarded as commenced.
+3G. If the person carrying out the work accepts the rejection notice they may not give a further notice under paragraph (3C) unless, having regard to the reasons given by the relevant authority, they are satisfied the work is to be regarded as commenced.
+3H. A person who gave the notice under paragraph (3C) may appeal to the First-tier Tribunal against the decision of the relevant authority to reject the notice provided the appeal is made within 21 relevant days beginning with the day after the day on which the relevant authority gives the rejection notice.
+3I. The First-tier Tribunal may allow an appeal under paragraph (3H) only if it is satisfied that the decision appealed against was wrong on one or more of the following grounds—
+    (a) that the decision was based on an error of fact;
+    (b) that the decision was wrong in law;
+    (c) that the decision was unreasonable; or
+    (d) that the decision was made without following the procedures set out in the Act or regulations made under that Act.
+3J. For the purposes of paragraphs (3C) to (3I) the provisions of regulation 46A (lapse of building control approval: commencement of work) apply to determine whether work is to be regarded as commenced.
+4. Subject to paragraph (8), a person carrying out building work shall, not more than five days after that work has been completed, give the relevant authority a notice which complies with paragraph (4A).
+4A. The notice under paragraph (4) must include—
+    (a) the name, address, telephone number and (if available) email address of the client;
+    (b) the name, address, telephone number and (if available) email address of the principal contractor (or sole contractor) and the principal designer (or sole or lead designer);
+    (c) a statement that the building work is complete;
+    (d) a statement, signed by the client, confirming that to the best of the client’s knowledge the work complies with all applicable requirements of the building regulations;
+    (e) subject to paragraph (4B), a statement given by each principal contractor (or sole contractor) for the work and each principal designer (or sole or lead designer) for the work, signed by the person to which the declaration relates, which includes—
+        (i) the name, address, telephone number and (if available) email address of that person;
+        (ii) the dates of their appointment, and
+        (iii) confirmation—
+            (aa) in the case of a principal contractor (or sole contractor), that they fulfilled their duties as a principal contractor under Part 2A (dutyholders and competence) of these Regulations;
+            (bb) in the case of a principal designer (or sole or lead designer), that they fulfilled their duties as a principal designer under Part 2A (dutyholders and competence) of these Regulations;
+    (f) if, under regulation 14(1)(g) or (h), building safety levy information was required to be provided with the application for building control approval with full plans in relation to the building work or an updated application in relation to that application, a levy liability statement under paragraph (5B).
+4B. If for any reason a person carrying out building work is unable to include a statement for a person mentioned under paragraph (4A)(e), the person carrying out the building work must include a statement giving the reasons why that person’s statement has not been included.
+5. Where a building is being erected to which the Regulatory Reform (Fire Safety) Order 2005 applies, or will apply after the completion of the work, and that building (or any part of it) is to be occupied before completion, the person carrying out that work shall give the relevant authority a notice which complies with paragraph (5A) at least 5 days before the building or any part of it is occupied.
+5A. The notice under paragraph (5) must include—
+    (a) the name, address, telephone number and (if available) email address of the client;
+    (b) the name, address, telephone number and (if available) email address of the principal contractor (or sole contractor) and the principal designer (or sole or lead designer);
+    (c) the date when the building or any part of it is to be occupied;
+    (d) a statement, signed by the client, confirming that to the best of the client’s knowledge, regardless of the completion of the current building work, regulation 38 and Part B of Schedule 1 are currently complied with in relation to those parts of the building which are to be occupied before completion of the work;
+    (e) subject to sub-paragraph (f), a statement given by each principal contractor (or sole contractor) for the work and each principal designer (or sole or lead designer) for the work, signed by the person to which the declaration relates, which includes—
+        (i) the name, address, telephone number and (if available) email address of that person;
+        (ii) the dates of their appointment, and
+        (iii) confirmation—
+            (aa) in the case of a principal contractor (or sole contractor), that they fulfilled their duties as a principal contractor under Part 2A (dutyholders and competence) of these Regulations;
+            (bb) in the case of a principal designer (or sole or lead designer), that they fulfilled their duties as a principal designer under Part 2A (dutyholders and competence) of these Regulations;
+    (f) if a person carrying out building work is unable to include a statement for a person mentioned in sub-paragraph (e), the person carrying out the building work must include a statement giving reasons why that person’s statement has not been included.
+5B. The “levy liability statement” is a statement, signed by the named client, that—
+    (a) a notice of no charge has been received in relation to the application referred to in paragraph (4A)(f), or an updated application relating to it, and has not been cancelled under regulation 43 or 53 of the BSL Regulations, or
+    (b) the levy liability amount in relation to the application referred to in paragraph (4A)(f), or the updated application relating to it, has been paid in full,
+and for these purposes, “notice of no charge” and “levy liability amount” have the same meaning as in the BSL Regulations.
+6. A person who fails to comply with paragraphs (1) or (2) shall comply within a reasonable time with any notice given by the relevant authority requiring that person to cut into, lay open or pull down so much of the work as prevents them from ascertaining whether these Regulations have been complied with.
+7. If the relevant authority have given notice specifying the manner in which any work contravenes the requirements in these Regulations, a person who has carried out any further work to secure compliance with these Regulations shall within a reasonable time after the completion of such further work give notice to the relevant authority of its completion.
+8. Paragraphs (1) to (4) apply only to a person who is required by regulation 12 to give a building notice or an application for building control approval with full plans.
+9. Paragraph (1) does not apply where regulation 12(8) applies.
+10. In this regulation—
+    (a) the “levy charging conditions” are—
+        (i) the building work to which the application for building control approval with full plans relates would result in a new building which includes residential floorspace, an existing building which includes residential floorspace where previously it had none (whether by extension or change of use), or an existing building with an increased total area of residential floorspace (whether by extension or change of use),
+        (ii) the building work to which the application relates is, or is anticipated to be, major residential development or is part of a wider development which is, or is anticipated to be, major residential development, and
+        (iii) the named client or, if there is more than one named client, each of them, in relation to the application is not an exempt person;
+    (b) subject to sub-paragraph (c), “applicable planning information” is—
+        (i) where a statement under regulation 14ZA(1)(a) stated that planning permission is not required, a statement confirming whether or not that remains the case and if it has changed setting out details of the change;
+        (ii) where a statement under regulation 14ZA(1)(a) stated that section 33 of the Planning Act 2008 applies, a statement confirming whether or not that remains the case and also identifying the development consent under section 31 of the Planning Act 2008 and if it has changed setting out details of the change;
+        (iii) where regulation 14ZA(1)(b)(i) or (iv) applied to the application for building control approval with full plans at the time that application was made, a statement confirming that information identifying the planning permission or prior approval have already been provided but if the planning permission has changed since the time that application was made the statement must set out details of the planning permission as updated;
+        (iv) where regulation 14ZA(1)(b)(ii) or (iii) applied to the application for building control approval with full plans at the time that application was made, information identifying the planning permission granted;
+        (v) where regulation 14ZA(1)(b)(v) or (vi) applied to the application for building control approval with full plans at the time that application was made, information identifying the prior approval and how the prior approval requirement is satisfied,
+    but where the planning permission expressly provides for the development to be carried out in phases the reference in paragraph (iii) and (iv) to the planning permission is a reference to the planning permission for the particular phase or phases of the development to which the application for building control approval with full plans relates;
+    (c) if, at the date the applicable planning information is to be included in a notice or application, no statement has previously been required under regulation 14ZA(1)(a) or (b), then the “applicable planning information” is whichever of those statements under regulation 14ZA(1)(a) or (b) that is applicable, as updated;
+    (d) for the purposes of sub-paragraph (b)(v), a prior approval requirement is satisfied, in relation to a development, if the outcome of the prior approval application is that—
+        (i) prior approval is given (or is deemed to be given), or
+        (ii) the local planning authority has determined prior approval is not required (where local planning authority has the meaning given in section 336 of TCPA 1990).
+11. In paragraph (3CA), the references to dwellings do not include references to purpose-built student accommodation.
+
+--- ALTERNATIVE VERSION — applies in Wales only (XML Version container "v10035", RestrictExtent W) ---
+
+1. Subject to paragraphs (8) and (9), a person who proposes to carry out building work shall not start that work unless—
+    (a) that person has given the building control authority notice of intention to start work; and
+    (b) at least two days have elapsed since the end of the day on which the notice was given.
+2. Subject to paragraph (8), a person carrying out building work shall not—
+    (a) cover up any excavation for a foundation, any foundation, any damp-proof course or any concrete or other material laid over a site; or
+    (b) cover up in any way any drain or sewer to which these Regulations apply, unless that person has given the building control authority notice of intention to start that work, and at least one day has elapsed since the end of the day on which the notice was given.
+2A. Not more than 5 days after the day on which work is to be regarded as commenced the person carrying out the work must give a notice to that effect to the building control authority.
+2B. The building control authority may take such steps, including—
+    (a) requiring information;
+    (b) laying open of work for inspection,
+as the authority thinks appropriate to check whether the work is to be regarded as commenced.
+2C. If the building control authority are not satisfied the work is to be regarded as commenced they must give the person carrying out the work a notice to that effect (“rejection notice”) within 4 weeks of the date the notice under paragraph (2A) is given, and the rejection notice must give the reasons for rejection and indicate what work needs to be completed for the work to be accepted as commenced.
+2D. Where a notice is given under paragraph (2A) and the period referred to in paragraph (2C) expires without a rejection notice being given, then the work is to be regarded as commenced.
+2E. If the person carrying out the work accepts the rejection notice they may not give a further notice under paragraph (2A) unless, having regard to the reasons given by the building control authority, they are satisfied the work is to be regarded as commenced.
+2F. A person who gave the notice under paragraph (2A) may appeal to the magistrates’ court against the decision of the building control authority to reject the notice provided the appeal is made within 15 ... days beginning with the day after the day on which the building control authority gives the rejection notice.
+2G. The magistrates’ court may allow an appeal under paragraph (2F) only if it is satisfied that the decision appealed against was wrong on one or more of the following grounds—
+    (a) that the decision was based on an error of fact;
+    (b) that the decision was wrong in law;
+    (c) that the decision was unreasonable;
+    (d) that the decision was made without following the procedures set out in the Act or regulations made under that Act.
+2H. For the purposes of paragraphs (2A) to (2G), regulation 46B (lapse of building control approval: commencement of work: Wales) applies to determine whether work is to be regarded as commenced.
+3. Subject to paragraph (8), a person who has laid, haunched or covered any drain or sewer in respect of which Part H of Schedule 1 (drainage and waste disposal) imposes a requirement shall give notice to that effect to the building control authority not more than five days after the completion of the work.
+3A. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3B. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4. Subject to paragraph (8), a person carrying out building work shall, not more than five days after that work has been completed, give the building control authority notice to that effect.
+4A. The notice under paragraph (4) must include—
+    (a) the name, address, telephone number and (if available) email address of the client;
+    (b) the name, address, telephone number and (if available) email address of the principal contractor (or sole contractor) and the principal designer (or sole or lead designer);
+    (c) a statement that the building work is complete;
+    (d) a statement, signed by the client or an applicant acting on the client’s behalf, confirming that to the best of the client’s knowledge the work complies with all applicable requirements of the building regulations. Where a person has signed on the client’s behalf, a declaration from the client that they approve of this notice;
+    (e) a statement given by each principal contractor (or sole contractor) for the work and each principal designer (or sole or lead designer) for the work, signed by the person to which the declaration relates, which includes—
+        (i) the name, address, telephone number and (if available) email address of that person,
+        (ii) the dates of their appointment, and
+        (iii) confirmation—
+            (aa) in the case of a principal contractor (or sole contractor), that they fulfilled their duties as a principal contractor under Part 2B (dutyholders and competence) of these Regulations;
+            (bb) in the case of a principal designer (or sole or lead designer), that they fulfilled their duties as a principal designer under Part 2B (dutyholders and competence) of these Regulations.
+4B. If for any reason a person carrying out building work is unable to include a statement for a person mentioned under paragraph (4A)(e), the person carrying out the building work must include a statement giving the reasons why that person’s statement has not been included.
+5. Where a building is being erected to which the Regulatory Reform (Fire Safety) Order 2005 applies, or will apply after the completion of the work, and that building (or any part of it) is to be occupied before completion, the person carrying out that work shall give the building control authority a notice which complies with paragraph (5A) at least 5 ... days before the building or any part of it is occupied.
+5A. The notice under paragraph (5) must include—
+    (a) the name, address, telephone number and (if available) email address of the client;
+    (b) the name, address, telephone number and (if available) email address of the principal contractor (or sole contractor) and the principal designer (or sole or lead designer);
+    (c) the date when the building or any part of it is to be occupied;
+    (d) a statement, signed by the client or an applicant acting on the client’s behalf, confirming that to the best of the client’s knowledge, regardless of the completion of the current building work, regulation 38 and Part B of Schedule 1 are currently complied with in relation to those parts of the building which are to be occupied before completion of the work. Where a person has signed on the client’s behalf, a declaration from the client that they approve of this notice;
+    (e) a statement given by each principal contractor (or sole contractor) for the work and each principal designer (or sole or lead designer) for the work, signed by the person to which the declaration relates, which includes—
+        (i) the name, address, telephone number and (if available) email address of that person,
+        (ii) the dates of their appointment, and
+        (iii) confirmation—
+            (aa) in the case of a principal contractor (or sole contractor), that they fulfilled their duties as a principal contractor under Part 2B (dutyholders and competence) of these Regulations;
+            (bb) in the case of a principal designer (or sole or lead designer), that they fulfilled their duties as a principal designer under Part 2B (dutyholders and competence) of these Regulations.
+5B. If a person carrying out building work is unable to include a statement for a person mentioned in paragraph (5A)(e), the person carrying out the building work must include a statement giving reasons why that person’s statement has not been included.
+6. A person who fails to comply with paragraphs (1) to (3) shall comply within a reasonable time with any notice given by the building control authority requiring that person to cut into, lay open or pull down so much of the work as prevents them from ascertaining whether these Regulations have been complied with.
+7. If the building control authority have given notice specifying the manner in which any work contravenes the requirements in these Regulations, a person who has carried out any further work to secure compliance with these Regulations shall within a reasonable time after the completion of such further work give notice to the building control authority of its completion.
+8. Paragraphs (1) to (4) apply only to a person who is required by regulation 12 to give a building notice or an application for building control approval with full plans.
+9. Paragraph (1) does not apply where regulation 12(8) applies.
+
+Source (Wales version): https://www.legislation.gov.uk/uksi/2010/2214/regulation/16/wales

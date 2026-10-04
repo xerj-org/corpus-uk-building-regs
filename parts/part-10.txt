@@ -1,0 +1,36 @@
+PART 10 — Miscellaneous
+Building Regulations 2010 (SI 2010/2214), current version, fetched 2026-10-04
+Source: https://www.legislation.gov.uk/uksi/2010/2214/part/10
+
+Index of provisions in this Part (files under regs/):
+
+  reg 45: Testing of building work
+  reg 46: Sampling of material
+  reg 46A: Lapse of building control approval: commencement of work
+  reg 46B: Lapse of building control approval: commencement of work: Wales
+  reg 47: Contravention of certain regulations not to be an offence [England text; Wales variant appended in file]
+  reg 47A: Compliance notices: excluded provisions
+  reg 47B: Compliance notices: contents
+  reg 47C: Stop notices: contents
+  reg 47D: Compliance notices and stop notices: giving of notices and notification of others
+  reg 47E: Compliance and stop notices: withdrawal
+  reg 47F: Appeal to the First-tier Tribunal in relation to a compliance notice or stop notice
+  reg 47G: Application to the First-tier Tribunal in relation to extension of the specified period in a compliance notice
+  reg 47H: Application to the First-tier Tribunal for a direction in relation to a stop notice
+  reg 47I: Compliance notices: excluded provisions: Wales
+  reg 47J: Compliance notices: contents: Wales
+  reg 47K: Stop notices: contents: Wales
+  reg 47L: Compliance notices and stop notices: giving of notices and notification to others: Wales
+  reg 47M: Compliance and stop notices: withdrawal: Wales
+  reg 47N: Appeal to magistrates’ court in relation to a compliance notice or stop notice: Wales
+  reg 47O: Application to the magistrates’ court in relation to extension of the specified period in a compliance notice: Wales
+  reg 47P: Application to the magistrates’ court for a direction in relation to a stop notice: Wales
+  reg 48: Electronic service of documents
+  reg 49: Transitional provisions: interpretation
+  reg 50: Transitional provisions: work already started before 1st October
+  reg 51: Transitional provisions: work for which notification is not required
+  reg 52: Transitional provisions: notice given or plans deposited before 1st October 2010
+  reg 53: Transitional and saving provisions: earlier Building Regulations
+  reg 54: Revocations and consequential amendments
+  reg 55: Review of Part 9A and Part R of Schedule 1
+  reg 56: Review of Part 9B and Part S of Schedule 1

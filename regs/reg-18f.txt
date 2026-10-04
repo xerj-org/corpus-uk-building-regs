@@ -1,0 +1,7 @@
+Regulation 18F — Appeal in relation to section 42 of the Act: Wales
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 3 — Notices, Plans and Certificates
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/18F
+XML metadata: in force from 2026-07-20; extent E and W
+
+An appeal to the High Court under section 42 of the Act against the decision of the Welsh Ministers who determined an appeal of a building control authority refusing to relax building regulations, must be made within 15 ... days beginning with the date the Welsh Ministers gave notice of their decision.

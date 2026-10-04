@@ -1,0 +1,7 @@
+Regulation 25B — Nearly zero-energy requirements for new buildings
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 6 — Energy Efficiency Requirements
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/25B
+XML metadata: in force from 2020-12-31; extent E and W
+
+Where a building is erected, it must be a nearly zero-energy building.

@@ -1,0 +1,28 @@
+Regulation 44F — Application of paragraph S3 of Schedule 1 (residential buildings undergoing major renovation)
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 9B — Infrastructure for the charging of electric vehicles
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/44F
+XML metadata: in force from 2022-06-15
+
+1. The requirements of paragraph S3 of Schedule 1 apply to a residential building undergoing major renovation as follows.
+2. The requirements of paragraph S3 of Schedule 1 apply if—
+    (a) the major renovation involves building work being done which includes work being done to any of the following—
+        (i) a car park that is located within the site boundary of the building, where the nature of the work is such that it would be reasonable to expect that work to include enabling the requirements of paragraph S3 of Schedule 1 to be fulfilled;
+        (ii) the electrical infrastructure of a car park, where the car park is located within the site boundary of the building;
+        (iii) the electrical infrastructure of the building, where a car park is located inside the building;
+    (b) the residential building will have more than 10 associated parking spaces upon completion of that work;
+    (c) subject to paragraph (3), all the required electric vehicle charge points can be accommodated within the incoming electrical supply to the building;
+    (d) the cost of installing all the required electric vehicle charge points and cable routes for electric vehicle charge points does not exceed 7% of the total cost of the major renovation; and
+    (e) the residential building is not one in relation to which paragraph (5) applies.
+3. If paragraph (2)(a), (b) and (e) applies, but all the required electric vehicle charge points cannot be accommodated within the incoming electrical supply to the building—
+    (a) the requirements of paragraph S3 of Schedule 1 apply in respect of the maximum number of electric vehicle charge points that can be accommodated within the incoming electrical supply to the building; and
+    (b) cable routes for electric vehicle charge points must be installed in all remaining associated parking spaces.
+4. If the cost of installing the required electric vehicle charge points and cable routes for electric vehicle charge points exceeds 7% of the total cost of the major renovation—
+    (a) the residential building is exempt from the requirement to install any electric vehicle charge point; and
+    (b) cable routes for electric vehicle charge points must be installed in all associated parking spaces, except where the cost of that installation exceeds 7% of the total cost of the major renovation.
+5. The requirements of paragraph S3 of Schedule 1 do not apply to a residential building which is undergoing major renovation for the principal purpose of improving the fire safety of the external walls or roof of the building.
+6. If a residential building undergoing major renovation has, or will have more than 10 associated parking spaces—
+    (a) if there are or will be any associated parking spaces situated in a position other than in a covered car park—
+        (i) the requirements of paragraph S3 of Schedule 1 must first be applied in relation to those associated parking spaces; then
+        (ii) cable routes for electric vehicle charge points must be installed in all the associated parking spaces in the covered car park;
+    (b) if all the associated parking spaces are situated in a covered car park, cable routes for electric vehicle charge points must be installed in all the parking spaces in the covered car park.

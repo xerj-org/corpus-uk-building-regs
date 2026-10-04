@@ -1,0 +1,56 @@
+Regulation 38 — Fire safety information
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 8 — Information to be Provided by the Person Carrying Out Work
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/england
+This regulation has a different Wales version; it is appended below (the inline text above is the England version).
+XML metadata: in force from 2026-07-20; extent E
+
+1. This regulation applies where building work—
+    (a) consists of or includes the erection or extension of a relevant building; or
+    (b) is carried out in connection with a relevant change of use of a building,
+and Part B of Schedule 1 imposes a requirement in relation to the work.
+2. The person carrying out the work must give fire safety information to the responsible person no later than—
+    (a) where the building, proposed building or extension to which the building work relates is not occupied during the building work, the date of completion of the work or the date of occupation of the building or the extension, whichever is the earlier;
+    (b) in any other case, the date of completion of the work.
+2A. The responsible person must give the person carrying out the work a notice acknowledging receipt of the fire safety information and confirming the information provided is sufficient to enable them to understand, operate and maintain the building (and the fire safety systems in it) after the building work in question.
+2B. Subject to paragraph (2D), the person carrying out the work must give a notice to the relevant authority—
+    (a) confirming that they have given the fire safety information to the responsible person pursuant to paragraph (2), and
+    (b) stating that they have received the notice from the responsible person pursuant to paragraph (2A) or where they have not received the notice, stating the steps taken to obtain the notice from the responsible person and the dates they were taken.
+2C. The notification under paragraph (2B) must be given no later than—
+    (a) where regulation 20 (provisions applicable to self-certification schemes) applies to the work, 30 days after the date referred to in paragraph (2),
+    (b) in any other case, five days after the date referred to in paragraph (2).
+2D. Paragraphs (2B) and (2C) do not apply where regulation 20A (provisions applicable to third party certification schemes) applies to the work and instead paragraphs (2E) to (2G) apply.
+2E. Where this paragraph applies, the person carrying out the work must notify the third party certifier appointed under regulation 12(6)(c)—
+    (a) confirming that they have given the fire safety information to the responsible person pursuant to paragraph (2), and
+    (b) stating that they have received the notice from the responsible person pursuant to paragraph (2A) or where they have not received the notice, stating the steps taken to obtain the notice from the responsible person and the dates they were taken.
+2F. The notification under paragraph (2E) must be given no later than seven days after the date referred to in paragraph (2).
+2G. Within 30 days of receiving the notification under paragraph (2E) the third party certifier appointed under regulation 12(6)(c) must notify the relevant authority confirming receipt of the notification under paragraph (2E).
+3. In this regulation—
+    (a) “fire safety information” means information relating to the design and construction of the building or extension, and the services, fittings and equipment provided in or in connection with the building or extension which will assist the responsible person to operate and maintain the building or extension with reasonable safety;
+    (b) a “relevant building” is a building to which the Regulatory Reform (Fire Safety) Order 2005 applies, or will apply after the completion of building work;
+    (c) a “relevant change of use” is a material change of use where, after the change of use takes place, the Regulatory Reform (Fire Safety) Order 2005 will apply, or continue to apply, to the building; and
+    (d) “responsible person” has the meaning given by article 3 of the Regulatory Reform (Fire Safety) Order 2005.
+
+--- ALTERNATIVE VERSION — applies in Wales only (XML Version container "v10014", RestrictExtent W) ---
+
+1. This regulation applies where building work—
+    (a) consists of or includes the erection or extension of a relevant building; or
+    (b) is carried out in connection with a relevant change of use of a building,
+and Part B of Schedule 1 imposes a requirement in relation to the work.
+2. The person carrying out the work must give fire safety information to the responsible person no later than—
+    (a) where the building, proposed building or extension to which the building work relates is not occupied during the building work, the date of completion of the work or the date of occupation of the building or the extension, whichever is the earlier, or
+    (b) in any other case, the date of completion of the work.
+2A. The responsible person must give the person carrying out the work a notice acknowledging receipt of the fire safety information and confirming the information provided is sufficient to enable them to understand, operate and maintain the building (and the fire safety systems in it) after the building work in question.
+2B. The person carrying out the work must give a notice to the building control authority—
+    (a) confirming that they have given the fire safety information to the responsible person under paragraph (2), and
+    (b) stating that they have received the notice from the responsible person under paragraph (2A) or where they have not received the notice, stating the steps taken to obtain the notice from the responsible person and the dates they were taken.
+2C. The notification under paragraph (2B) must be given no later than—
+    (a) where regulation 20 (provisions applicable to self-certification schemes) applies to the work, 30 ... days after the date referred to in paragraph (2);
+    (b) in any other case, 5 ... days after the date referred to in paragraph (2).
+3. In this regulation—
+    (a) “fire safety information” means information relating to the design and construction of the building or extension, and the services, fittings and equipment provided in or in connection with the building or extension which will assist the responsible person to operate and maintain the building or extension with reasonable safety;
+    (b) a “relevant building” is a building to which the Regulatory Reform (Fire Safety) Order 2005 applies, or will apply after the completion of building work;
+    (c) a “relevant change of use” is a material change of use where, after the change of use takes place, the Regulatory Reform (Fire Safety) Order 2005 will apply, or continue to apply, to the building; and
+    (d) “responsible person” has the meaning given by article 3 of the Regulatory Reform (Fire Safety) Order 2005.
+
+Source (Wales version): https://www.legislation.gov.uk/uksi/2010/2214/regulation/38/wales

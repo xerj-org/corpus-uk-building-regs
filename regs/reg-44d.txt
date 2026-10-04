@@ -1,0 +1,21 @@
+Regulation 44D — Application of paragraph S1 of Schedule 1 (the erection of new residential buildings)
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 9B — Infrastructure for the charging of electric vehicles
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/44D
+XML metadata: in force from 2022-06-15
+
+1. The requirements of paragraph S1 of Schedule 1 apply in relation to the erection of a new residential building with associated parking as follows.
+2. The number of electric vehicle charge points that must be installed is the maximum number of electric vehicle charge points that it is possible to install at an average sum of £3600 or less for the connection cost of each electric vehicle charge point connection (“the £3600 cap”).
+3. If it is not possible to completely fulfil the requirements of paragraph S1(2) of Schedule 1 as a result of the operation of the £3600 cap, cable routes for electric vehicle charge points must be installed in the associated parking spaces that would otherwise be required to have electric vehicle charge points, but for the operation of the £3600 cap.
+4. Where the new residential building has, or will have, associated parking that is situated within a covered car park—
+    (a) if there are or will be any associated parking spaces situated in a position other than in a covered car park—
+        (i) the requirements of paragraph S1 of Schedule 1 must first be applied in relation to those parking spaces; then
+        (ii) if the number of associated parking spaces, which are situated in a position other than in a covered car park, is insufficient to completely fulfil the requirements of paragraph S1(2) of Schedule 1, cable routes for electric vehicle charge points must be installed in—
+            (aa) the number of parking spaces in the covered car park which, when added to the number of associated parking spaces which are situated in a position other than in the covered car park, corresponds to the total number of dwellings with associated parking, where the total number of associated parking spaces is 10 or less;
+            (bb) all the associated parking spaces in the covered car park, where the total number of associated parking spaces is both less than the number of dwellings with associated parking and 10 or less; and
+            (cc) all the associated parking spaces in the covered car park, where the total number of associated parking spaces is more than 10;
+    (b) if all the associated parking spaces are situated in a covered car park, cable routes for electric vehicle charge points must be installed—
+        (i) where there are 10 or fewer parking spaces—
+            (aa) in the number of associated parking spaces in the covered car park which corresponds to the total number of dwellings with associated parking;
+            (bb) in all the parking spaces where there are fewer parking spaces than there are dwellings;
+        (ii) in all the parking spaces in the covered car park, where there are more than 10 parking spaces.

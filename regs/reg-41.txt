@@ -1,0 +1,49 @@
+Regulation 41 — Sound insulation testing
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 9 — Testing and Commissioning
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/england
+This regulation has a different Wales version; it is appended below (the inline text above is the England version).
+XML metadata: in force from 2026-07-01; extent E
+
+1. Subject to paragraph (4) below, this regulation applies to—
+    (a) building work in relation to which paragraph E1 of Schedule 1 imposes a requirement; and
+    (b) work which is required to be carried out to a building to ensure that it complies with paragraph E1 of Schedule 1 by virtue of regulation 6(1)(f) or 6(2)(b).
+2. Where this regulation applies, the person carrying out the work shall, for the purpose of ensuring compliance with paragraph E1 of Schedule 1—
+    (a) ensure that appropriate sound insulation testing is carried out in accordance with a procedure approved by the Secretary of State; and
+    (b) give a copy of the results of the testing referred to in sub-paragraph (a) to the building control authority.
+3. The results of the testing referred to in paragraph (2)(a) shall be—
+    (a) recorded in a manner approved by the Secretary of State; and
+    (b) given—
+        (i) in the case where the building work is higher-risk building work, to the regulator with the application for a completion certificate in relation to the work;
+        (ii) in any other case, to the building control authority not later than the date on which the notice required by regulation 16(4) of these Regulations or 22A(1) of the Building (Registered Building Control Approvers etc.) (England) Regulations 2024 is given.
+3A. Where the regulator is the building control authority by virtue of section 91ZB of the Act (the regulator: building control authority for other work), it must send a copy of the results of the testing it receives under this regulation in relation to a building to the local authority for the area in which the building is situated.
+4. Where building work consists of the erection of a dwelling-house or a building containing flats, this regulation does not apply to any part of the building in relation to which the person carrying out the building work notifies the building control authority—
+    (i) in the case of building work which is higher-risk building work, not later than the date on which the application for building control approval for the work is submitted,
+    (ii) in any other case, not later than the date on which notice of intention to start work is given under regulation 16(1),
+that, for the purposes of achieving compliance of the work with paragraph E1 of Schedule 1, the person is using one or more design details approved by Robust Details Limited, provided that—
+    (a) the notification specifies—
+        (i) the part or parts of the building in respect of which the person is using the design detail;
+        (ii) the design detail concerned; and
+        (iii) the unique number issued by Robust Details Limited in respect of the specified use of that design detail; and
+    (b) the building work carried out in respect of the part or parts of the building identified in the notification is in accordance with the design detail specified in the notification.
+
+--- ALTERNATIVE VERSION — applies in Wales only (XML Version container "v10041", RestrictExtent W) ---
+
+1. Subject to paragraph (4) below, this regulation applies to—
+    (a) building work in relation to which paragraph E1 of Schedule 1 imposes a requirement; and
+    (b) work which is required to be carried out to a building to ensure that it complies with paragraph E1 of Schedule 1 by virtue of regulation 6(1)(f) or 6(2)(b).
+2. Where this regulation applies, the person carrying out the work shall, for the purpose of ensuring compliance with paragraph E1 of Schedule 1—
+    (a) ensure that appropriate sound insulation testing is carried out in accordance with a procedure approved by the Secretary of State; and
+    (b) give a copy of the results of the testing referred to in sub-paragraph (a) to the building control authority.
+3. The results of the testing referred to in paragraph (2)(a) shall be—
+    (a) recorded in a manner approved by the Secretary of State; and
+    (b) given—
+        (i) in the case where the building work is higher-risk building work, to the building control authority with the completion certificate application in relation to the work;
+        (ii) in any other case, to the building control authority not later than the date on which the notice required by regulation 16(4) of these Regulations or regulation 17A(1) of the Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 is given.
+3A. Where the building control authority is a designated local authority under section 91ZD of the Act, it must send a copy of each results of testing received under this regulation in relation to a building to the local authority for the area in which the building is situated.
+4. Where building work consists of the erection of a dwelling-house or a building containing flats, this regulation does not apply to any part of the building in relation to which the person carrying out the building work notifies the building control authority—
+    (i) in the case of building work which is higher-risk building work, not later than the date on which the application for building control approval for the work is submitted;
+    (ii) in any other case, not later than the date on which notice of intention to start work is given under regulation 16(1);
+that, for the purposes of achieving compliance of the work with paragraph E1 of Schedule 1,
+
+Source (Wales version): https://www.legislation.gov.uk/uksi/2010/2214/regulation/41/wales

@@ -1,0 +1,11 @@
+Regulation 53 — Transitional and saving provisions: earlier Building Regulations
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 10 — Miscellaneous
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/53
+XML metadata: in force from 2010-10-01
+
+1. If immediately before 1st October 2010 any of the transitional provisions listed in paragraph (2) applied in relation to building work, the Regulations specified in Schedule 5 shall continue to apply in relation to that building work in accordance with that provision as if these Regulations had not been made.
+2. The provisions are—
+regulation 4 of the Building (Amendment) Regulations 2001; regulation 3 of the Building (Amendment) Regulations 2002; regulations 3 and 4 of the Building (Amendment) (No. 2) Regulations 2002; regulation 3 of the Building (Amendment) Regulations 2003; regulation 3 of the Building (Amendment) Regulations 2004; regulation 3 of the Building (Amendment) (No. 3) Regulations 2004; regulations 29 to 34 of the Building and Approved Inspectors (Amendment) Regulations 2006 in so far as they relate to the Building Regulations 2000; regulation 4 of the Building and Approved Inspectors (Amendment) (No. 2) Regulations 2006 in so far as it relates to the Building Regulations 2000; regulation 4 of the Building and Approved Inspectors (Amendment) Regulations 2007 in so far as it relates to the Building Regulations 2000; regulations 4 to 8 of the Building and Approved Inspectors (Amendment) Regulations 2009 in so far as they relate to the Building Regulations 2000.
+3. Regulation 22A of the Building Regulations 2000 (time limit for prosecution for contravention of certain regulations) shall continue to have effect in relation to contraventions of building regulations committed before 22nd September 2008 as if the 2009 Regulations had not been made.
+4. If immediately before 1st October 2010 regulation 23 of the Building Regulations 2000 applied in relation to building work, the Regulations specified in Schedule 3 to those Regulations shall continue to apply in relation to that building work in accordance with that transitional provision as if these Regulations had not been made.

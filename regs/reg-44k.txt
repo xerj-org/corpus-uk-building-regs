@@ -1,0 +1,21 @@
+Regulation 44K — Interpretation of this Part and Part S of Schedule 1
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 9B — Infrastructure for the charging of electric vehicles
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/44K
+XML metadata: in force from 2022-06-15
+
+In this Part and Part S of Schedule 1—
+- “associated parking”, or “associated parking space”, in relation to a building, means any parking space that is available within the site boundary of the building, for the use by the occupant of, or a visitor to, a dwelling in the building, including any parking space which is for the use of any occupant of, or any visitor to, any dwelling in a building containing more than one dwelling;
+- “building envelope” in relation to a building means the walls, floor, roof, windows, doors, roof windows and roof-lights;
+- “cable route” means a safe, unobstructed route from the power supply to the envisaged electric vehicle charge point location, for electrical cabling to be installed in the future;
+- “carport” means a shelter for one or more vehicles that—has a roof;has one or more open sides; andis not situated underneath or inside a building;
+- “connection cost” means the cost of upgrades needed to the electricity system in order to accommodate an electric vehicle charge point, excluding the cost of any building work or the cost of the electric vehicle charge point itself;
+- “covered car park” means one or more parking spaces which are situated beneath a roof, but it does not include a carport or a residential garage;
+- “electric vehicle” means a vehicle that is capable of being propelled by electrical power derived from a storage battery;
+- “electric vehicle charge point” means a device intended for charging a vehicle that is capable of being propelled by electrical power derived from a storage battery (or for discharging electricity stored in such a vehicle);
+- “major renovation” means the renovation of a building where more than 25% of the surface area of the building envelope undergoes renovation;
+- “mixed-use building” means a building which contains—one or more dwellings; andone or more premises that are not dwellings;
+- “residential building”—means a building which contains one or more dwellings; anddoes not include a mixed-use building;
+- “residential garage” means a structure with at least three enclosed sides and a roof for housing one or more vehicles, for the sole use of the occupant of, or a visitor to, a single dwelling;
+- “site boundary”, in relation to a building in respect of which building work is being carried out, means the boundary of the land, upon which that building is situated, that is controlled or owned by the same person who owns—that building; orin the case of the erection of a new building, the land upon which building work is being carried out;
+- “vehicle” means a vehicle that is intended or adapted for use on roads.

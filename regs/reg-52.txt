@@ -1,0 +1,11 @@
+Regulation 52 — Transitional provisions: notice given or plans deposited before 1st October 2010
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 10 — Miscellaneous
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/52
+XML metadata: in force from 2010-10-01
+
+1. Subject to paragraph (2), the Building Regulations 2000 as last amended by the 2009 Regulations shall continue to apply in relation to building work where—
+    (a) before 1st October 2010 a building notice, an initial notice, a plans certificate, an amendment notice or a public body's notice has been given to, or full plans deposited with, a local authority; and
+    (b) the work is carried out or is to be carried out in accordance with any such notice or plans, whether with or without any departure from such plans,
+provided that the work is started before 1st October 2011.
+2. Where an initial notice given before 1st October 2010 is varied by an amendment notice given on or after that date, the Building Regulations 2000 as last amended by the 2009 Regulations shall continue to apply to so much of the building work as could have been carried out under that initial notice if the amendment notice had not been given, provided that the work is started before 1st October 2011.

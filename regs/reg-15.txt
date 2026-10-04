@@ -1,0 +1,28 @@
+Regulation 15 — Consultation with sewerage undertaker
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 3 — Notices, Plans and Certificates
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/england
+This regulation has a different Wales version; it is appended below (the inline text above is the England version).
+XML metadata: in force from 2026-07-01; extent E
+
+1. This regulation applies where an application for building control approval with full plans has been given to the relevant authority and paragraph H4 of Schedule 1 imposes requirements in relation to the building work which is the subject of those plans.
+2. Where this regulation applies the relevant authority shall consult the sewerage undertaker—
+    (a) as soon as practicable after the application for building control approval with full plans has been given; and
+    (b) before issuing any completion certificate in relation to the building work in accordance with regulation 17 or 17A.
+3. Where a relevant authority are required by paragraph (2) to consult the sewerage undertaker they shall—
+    (a) give to the sewerage undertaker, in a case where the authority are consulting them following the giving of an application for building control approval with full plans, sufficient plans to show whether the work would, if carried out in accordance with those plans, comply with the applicable requirements of paragraph H4 of Schedule 1;
+    (b) have regard to any views expressed by the sewerage undertaker; and
+    (c) not grant the application for building control approval or issue a completion certificate until 15 days have elapsed from the date on which they consulted the sewerage undertaker, unless the sewerage undertaker has expressed its views to them before the expiry of that period.
+
+--- ALTERNATIVE VERSION — applies in Wales only (XML Version container "v10034", RestrictExtent W) ---
+
+1. This regulation applies where an application for building control approval with full plans has been given to the building control authority and paragraph H4 of Schedule 1 imposes requirements in relation to the building work which is the subject of those plans.
+2. Where this regulation applies the building control authority shall consult the sewerage undertaker—
+    (a) as soon as practicable after the application for building control approval with full plans has been given; and
+    (b) before issuing any completion certificate in relation to the building work in accordance with regulation 17 or 17A.
+3. Where a building control authority are required by paragraph (2) to consult the sewerage undertaker they shall—
+    (a) give to the sewerage undertaker, in a case where the authority are consulting them following the giving of an application for building control approval with full plans, sufficient plans to show whether the work would, if carried out in accordance with those plans, comply with the applicable requirements of paragraph H4 of Schedule 1;
+    (b) have regard to any views expressed by the sewerage undertaker; and
+    (c) not grant the application for building control approval or issue a completion certificate until 15 days have elapsed from the date on which they consulted the sewerage undertaker, unless the sewerage undertaker has expressed its views to them before the expiry of that period.
+
+Source (Wales version): https://www.legislation.gov.uk/uksi/2010/2214/regulation/15/wales

@@ -1,0 +1,11 @@
+PART 8 — Information to be Provided by the Person Carrying Out Work
+Building Regulations 2010 (SI 2010/2214), current version, fetched 2026-10-04
+Source: https://www.legislation.gov.uk/uksi/2010/2214/part/8
+
+Index of provisions in this Part (files under regs/):
+
+  reg 38: Fire safety information [England text; Wales variant appended in file]
+  reg 39: Information about ventilation
+  reg 40: Information about use of fuel and power
+  reg 40A: Information about systems for on-site generation of electricity
+  reg 40B: Information about overheating

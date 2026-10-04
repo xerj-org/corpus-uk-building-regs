@@ -1,0 +1,19 @@
+Regulation 55 — Review of Part 9A and Part R of Schedule 1
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 10 — Miscellaneous
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/55
+XML metadata: in force from 2022-12-26
+
+1. Before the end of each review period the Secretary of State must—
+    (a) carry out a review of Part 9A and Part R of Schedule 1; and
+    (b) publish a report setting out the conclusions of the review.
+2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3. The report must in particular—
+    (a) set out the objectives intended to be achieved by the regulatory provision in Part 9A and Part R of Schedule 1;
+    (b) assess the extent to which those objectives have been achieved;
+    (c) assess whether those objectives remain appropriate; and
+    (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way that imposes less onerous regulatory provision.
+4. In this regulation, “review period” means—
+    (a) the period of five years beginning on the 9th May 2016; and
+    (b) subject to paragraph (5), each successive period of five years.
+5. If a report under this regulation is published before the last day of the review period to which it relates, the next review period will begin with the day on which that report is published.

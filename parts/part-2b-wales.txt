@@ -1,0 +1,28 @@
+PART 2B - WALES — Dutyholders and competence
+Building Regulations 2010 (SI 2010/2214), current version, fetched 2026-10-04
+Source: https://www.legislation.gov.uk/uksi/2010/2214/part/wales
+
+Index of provisions in this Part (files under regs/):
+
+CHAPTER 1 — Client
+  reg 11R: Suitable arrangements to ensure compliance with requirements etc.: Wales
+  reg 11S: Arrangements as to information: higher-risk building work: Wales
+  reg 11T: Domestic clients: Wales
+CHAPTER 2 — Appointment of principal designer and principal contractor etc.
+  reg 11U: Principal designer and principal contractor: Wales
+  reg 11V: Considerations before a person carries out work: Wales
+CHAPTER 3 — Competence: Wales
+  reg 11W: Competence: general requirement: Wales
+  reg 11X: Competence: principal designer: Wales
+  reg 11Y: Competence: principal contractor: Wales
+  reg 11Z: Ceasing to be competent: notification: Wales
+CHAPTER 4 — Duties of dutyholders
+  reg 11Z1: General duty: Wales
+  reg 11Z2: Additional duties of designers: Wales
+  reg 11Z3: Additional duties of contractors: Wales
+  reg 11Z4: Additional duties of a principal designer: Wales
+  reg 11Z5: Additional duties of a principal contractor: Wales
+  reg 11Z6: Notification of change of dutyholder: Wales
+CHAPTER 5 — General: Wales
+  reg 11Z7: Minor work: Wales
+  reg 11Z8: Interpretation of this Part: Wales

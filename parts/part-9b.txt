@@ -1,0 +1,14 @@
+PART 9B — Infrastructure for the charging of electric vehicles
+Building Regulations 2010 (SI 2010/2214), current version, fetched 2026-10-04
+Source: https://www.legislation.gov.uk/uksi/2010/2214/part/9b
+
+Index of provisions in this Part (files under regs/):
+
+  reg 44D: Application of paragraph S1 of Schedule 1 (the erection of new residential buildings)
+  reg 44E: Application of paragraph S2 of Schedule 1 (dwellings resulting from a material change of use)
+  reg 44F: Application of paragraph S3 of Schedule 1 (residential buildings undergoing major renovation)
+  reg 44G: Application of paragraph S4 of Schedule 1 (erection of new buildings which are not residential buildings or mixed-use buildings)
+  reg 44H: Application of paragraph S5 of Schedule 1 (buildings undergoing major renovation which are not residential buildings or mixed-use buildings)
+  reg 44I: Application of paragraph S6 of Schedule 1 (the erection of new mixed-use buildings and mixed-use buildings undergoing major renovation)
+  reg 44J: Minimum standards of an electric vehicle charge point
+  reg 44K: Interpretation of this Part and Part S of Schedule 1

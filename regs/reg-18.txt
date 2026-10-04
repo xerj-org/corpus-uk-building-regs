@@ -1,0 +1,61 @@
+Regulation 18 — Unauthorised building work
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 3 — Notices, Plans and Certificates
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/england
+This regulation has a different Wales version; it is appended below (the inline text above is the England version).
+XML metadata: in force from 2026-07-01; extent E
+
+1. This regulation applies where it appears to a relevant authority that unauthorised building work has been carried out on or after 11th November 1985.
+2. Where this regulation applies, the owner (in this regulation referred to as “the applicant”) may apply in writing to the relevant authority for a regularisation certificate in accordance with this regulation, and shall send with the application—
+    (a) a statement that the application is made in accordance with this regulation,
+    (b) a description of the unauthorised work,
+    (c) so far as is reasonably practicable, a plan of the unauthorised work, and
+    (d) so far as is reasonably practicable, a plan showing any additional work required to be carried out to secure that the unauthorised work complies with the requirements relating to building work in the building regulations which were applicable to that work when it was carried out (in this regulation referred to as “the relevant requirements”).
+3. Where a relevant authority receive an application in accordance with this regulation, they may require the applicant to take such reasonable steps, including laying open the unauthorised work for inspection by the authority, making tests and taking samples, as the authority think appropriate to ascertain what work, if any, is required to secure that the relevant requirements are met.
+4. When the applicant has taken any such steps required by the relevant authority as are described in paragraph (3), and having had regard to any direction given in accordance with sections 8 and 9 of, and Schedule 2 to, the Act dispensing with or relaxing a requirement in building regulations which applies to the unauthorised work, the relevant authority shall notify the applicant—
+    (a) of the work which in their opinion is required to comply with the relevant requirements or those requirements as dispensed with or relaxed, or
+    (b) that they cannot determine what work is required to comply with the relevant requirements or those requirements as dispensed with or relaxed, or
+    (c) that no work is required to secure compliance with the relevant requirements or those requirements as dispensed with or relaxed.
+5. Where the relevant authority have been able to satisfy themselves, after taking all reasonable steps for that purpose that—
+    (a) the relevant requirements have been satisfied (taking account of any work carried out and any dispensation or relaxation given in accordance with sections 8 and 9 of, and Schedule 2 to, the Act), or
+    (b) no work is required to secure that the unauthorised work satisfies the relevant requirements (taking account of any such dispensation or relaxation),
+they may give a certificate to that effect (in this regulation referred to as “a regularisation certificate”).
+6. A regularisation certificate shall be evidence (but not conclusive evidence) that the relevant requirements specified in the certificate have been complied with.
+6A. Where the relevant authority is the regulator, it must send a copy of each certificate it gives under this regulation in relation to a building to the local authority for the area in which the building is situated.
+7. Where this regulation applies, regulations 12 and 14 shall not apply, and neither the supply of plans nor the taking of any other action in accordance with this regulation is to be treated as an application for building control approval with full plans in accordance with building regulations.
+8. In this regulation “unauthorised building work”—
+    (a) where the relevant authority is the local authority, means building work, other than work in relation to which an initial notice, an amendment notice, a public body’s notice or a regulator’s notice has effect, which is done without—
+        (i) a building notice being given to the local authority;
+        (ii) an application for building control approval with full plans of the work being given to the local authority; or
+        (iii) a notice of intention to start work being given to the local authority, in accordance with regulation 16(1), where a building notice has been given or an application for building control approval with full plans of the work has been given;
+    (b) where the relevant authority is the regulator, means building work which is work in relation to which a regulator’s notice has effect but which is done without—
+        (i) a building notice being given to the regulator;
+        (ii) an application for building control approval with full plans of the work being given to the regulator; or
+        (iii) a notice of intention to start work being given to the regulator, in accordance with regulation 16(1), where a building notice has been given or an application for building control approval with full plans of the work has been given.
+
+--- ALTERNATIVE VERSION — applies in Wales only (XML Version container "v10038", RestrictExtent W) ---
+
+1. This regulation applies where it appears to a building control authority that unauthorised building work has been carried out on or after 11th November 1985.
+2. Where this regulation applies, the owner (in this regulation referred to as “the applicant”) may apply in writing to the building control authority for a regularisation certificate in accordance with this regulation, and shall send with the application—
+    (a) a statement that the application is made in accordance with this regulation,
+    (b) a description of the unauthorised work,
+    (c) so far as is reasonably practicable, a plan of the unauthorised work, and
+    (d) so far as is reasonably practicable, a plan showing any additional work required to be carried out to secure that the unauthorised work complies with the requirements relating to building work in the building regulations which were applicable to that work when it was carried out (in this regulation referred to as “the relevant requirements”).
+3. Where a building control authority receive an application in accordance with this regulation, they may require the applicant to take such reasonable steps, including laying open the unauthorised work for inspection by the authority, making tests and taking samples, as the authority think appropriate to ascertain what work, if any, is required to secure that the relevant requirements are met.
+4. When the applicant has taken any such steps required by the building control authority as are described in paragraph (3), and having had regard to any direction given in accordance with sections 8 and 9 of, and Schedule 2 to, the Act dispensing with or relaxing a requirement in building regulations which applies to the unauthorised work, the building control authority shall notify the applicant—
+    (a) of the work which in their opinion is required to comply with the relevant requirements or those requirements as dispensed with or relaxed, or
+    (b) that they cannot determine what work is required to comply with the relevant requirements or those requirements as dispensed with or relaxed, or
+    (c) that no work is required to secure compliance with the relevant requirements or those requirements as dispensed with or relaxed.
+5. Where the building control authority have been able to satisfy themselves, after taking all reasonable steps for that purpose that—
+    (a) the relevant requirements have been satisfied (taking account of any work carried out and any dispensation or relaxation given in accordance with sections 8 and 9 of, and Schedule 2 to, the Act), or
+    (b) no work is required to secure that the unauthorised work satisfies the relevant requirements (taking account of any such dispensation or relaxation),
+they may give a certificate to that effect (in this regulation referred to as “a regularisation certificate”).
+6. A regularisation certificate shall be evidence (but not conclusive evidence) that the relevant requirements specified in the certificate have been complied with.
+6A. Where the building control authority is a designated local authority under section 91ZD of the Act, it must send a copy of each certificate it gives under this regulation in relation to a building to the local authority for the area in which the building is situated.
+7. Where this regulation applies, regulations 12 and 14 shall not apply, and neither the supply of plans nor the taking of any other action in accordance with this regulation is to be treated as an application for building control approval with full plans in accordance with building regulations.
+8. In this regulation, “unauthorised building work” means building work other than work in relation to which an initial notice, an amendment notice or a public body's notice has effect, which is done without—
+    (a) a building notice being given to the building control authority;
+    (b) an application for building control approval with full plans of the work being given to the local authority; or
+    (c) a notice of intention to start work being given, in accordance with regulation 16(1), where a building notice has been given or an application for building control approval with full plans of the work has been given.
+
+Source (Wales version): https://www.legislation.gov.uk/uksi/2010/2214/regulation/18/wales

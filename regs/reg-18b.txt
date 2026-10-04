@@ -1,0 +1,14 @@
+Regulation 18B — Appeal in relation to sections 20(5) or 39 of the Act
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 3 — Notices, Plans and Certificates
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/18B
+XML metadata: in force from 2023-10-01
+
+1. An appeal to the regulator under section 20(5) of the Act must be made within 21 relevant days beginning with the day after the day on which the local authority notifies the person of its decision.
+2. Where a person who is aggrieved with the decision of the regulator given on an appeal under section 20(5) or 39 of the Act wishes to appeal that decision by virtue of section 43A(3) of the Act they may appeal to the First-tier Tribunal provided the appeal is made within 21 relevant days beginning with the day after the day on which the regulator notifies them of its decision.
+3. The First-tier Tribunal may allow an appeal referred to in paragraph (2) only if it is satisfied that the decision appealed against was wrong on one or more of the following grounds—
+    (a) that the decision was based on an error of fact;
+    (b) that the decision was wrong in law;
+    (c) that the decision was unreasonable; or
+    (d) that the decision was made without following the procedures set out in the Act or regulations made under that Act.
+4. If the First-tier Tribunal allows an appeal it may quash or vary the decision.

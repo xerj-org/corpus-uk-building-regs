@@ -1,0 +1,8 @@
+Regulation 47M — Compliance and stop notices: withdrawal: Wales
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 10 — Miscellaneous
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/47M
+XML metadata: in force from 2026-07-01
+
+1. A building control authority may withdraw a compliance notice or stop notice.
+2. Where the building control authority withdraws a compliance notice or stop notice it must as soon as reasonably practicable give the recipient a notice in writing to that effect.

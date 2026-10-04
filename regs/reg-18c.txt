@@ -1,0 +1,18 @@
+Regulation 18C — Appeal to the First-tier Tribunal in relation to certain decisions
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 3 — Notices, Plans and Certificates
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/18C
+XML metadata: in force from 2025-10-07
+
+1. Where, in relation to work which is not higher-risk building work, a person (“the appellant”) has—
+    (a) notified the regulator under regulation 16(4) of these Regulations or 22A(1) of the Building (Registered Building Control Approvers etc.) (England) Regulations 2024 and the regulator has refused to give a certificate under regulation 17 (completion certificates);
+    (b) notified the regulator under regulation 16(5) and the regulator has refused to give a certificate under regulation 17A (certificate for building occupied before work is completed); or
+    (c) applied to the regulator under regulation 18(2) (unauthorised building work) for a certificate and the regulator has refused to give the certificate,
+they may appeal to the First-tier Tribunal against the decision of the regulator provided the appeal is made within 21 relevant days beginning with the day after the day on which the regulator notifies the appellant of the refusal.
+2. An appeal to the First-tier Tribunal under section 19(4), 20(5), 21(4), 22(4) or 39 of the Act must be made within 21 relevant days beginning with the day after the day on which the building control authority notifies the person of its decision.
+3. The First-tier Tribunal may allow an appeal referred to in paragraph (1) or (2) only if it is satisfied that the decision appealed against was wrong on one or more of the following grounds—
+    (a) that the decision was based on an error of fact;
+    (b) that the decision was wrong in law;
+    (c) that the decision was unreasonable; or
+    (d) that the decision was made without following the procedures set out in the Act or regulations made under that Act.
+4. If the First-tier Tribunal allows an appeal referred to in paragraph (1) or (2) it may quash or vary the decision.

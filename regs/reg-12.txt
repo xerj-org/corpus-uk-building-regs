@@ -1,0 +1,67 @@
+Regulation 12 — an application for building control approval
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 3 — Notices, Plans and Certificates
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/england
+This regulation has a different Wales version; it is appended below (the inline text above is the England version).
+XML metadata: in force from 2026-07-01; extent E
+
+1. This regulation applies to a person who intends to—
+    (a) carry out building work;
+    (b) replace or renovate a thermal element in a building to which the energy efficiency requirements apply;
+    (c) make a change to a building's energy status; or
+    (d) make a material change of use.
+2. Subject to the following provisions of this regulation, a person to whom this regulation applies shall—
+    (a) give to the relevant authority a building notice in accordance with regulation 13; or
+    (b) give an application for building control approval with full plans to the relevant authority in accordance with regulation 14.
+3. A person intending to carry out building work in relation to a building to which the Regulatory Reform (Fire Safety) Order 2005 applies, or will apply after the completion of the building work, shall give an application for building control approval with full plans.
+4. A person intending to carry out building work which includes the erection of a building fronting onto a private street shall give an application for building control approval with full plans.
+5. A person intending to carry out building work in relation to which paragraph H4 of Schedule 1 imposes a requirement shall give an application for building control approval with full plans.
+6. A person intending to carry out building work is not required to give a building notice or an application for building control approval with full plans where the work consists only of work—
+    (a) described in column 1 of the Table in Schedule 3 if the work is to be carried out by a person described in the corresponding entry in column 2 of that Table;
+    (b) described in Schedule 4; or
+    (c) described in column 1 of the Table in Schedule 3A if the work is to be inspected by a person described in the corresponding entry in column 2 of that Table (a “third party certifier”) who has been appointed by the person intending to carry out the building work before the commencement of that work.
+6A. A person intending to carry out building work in relation to which Part P of Schedule 1 imposes a requirement is required to give a building notice or an application for building control approval with full plans where the work consists of—
+    (a) the installation of a new circuit;
+    (b) the replacement of a consumer unit; or
+    (c) any addition or alteration to existing circuits in a special location.
+7. Where regulation 22 of the Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (local authority powers in relation to partly completed work) applies, the owner shall comply with the requirements of that regulation instead of with this regulation.
+8. Where—
+    (a) a person proposes to carry out building work which consists of emergency repairs;
+    (b) it is not practicable to comply with paragraph (2) before commencing the work; and
+    (c) paragraph (6) does not apply,
+the person shall give a building notice to the relevant authority as soon as reasonably practicable after commencement of the work.
+9. In this regulation—
+- “fronting” has the meaning given in section 203(3) of the Highways Act 1980; ...
+- “private street” has the meaning given in section 203(2) of the Highways Act 1980...; and
+- “special location” means— within a room containing a bath or shower, the space surrounding a bath tap or shower head, where the space extends—vertically from the finished floor level to—a height of 2.25 metres; orthe position of the shower head where it is attached to a wall or ceiling at a point higher than 2.25 metres from that level; andhorizontally—where there is a bath tub or shower tray, from the edge of the bath tub or shower tray to a distance of 0.6 metres; orwhere there is no bath tub or shower tray, from the centre point of the shower head where it is attached to the wall or ceiling to a distance of 1.2 metres; ora room containing a swimming pool or sauna heater.
+
+--- ALTERNATIVE VERSION — applies in Wales only (XML Version container "v10021", RestrictExtent W) ---
+
+1. This regulation applies to a person who intends to—
+    (a) carry out building work;
+    (b) replace or renovate a thermal element in a building to which the energy efficiency requirements apply;
+    (c) make a change to a building's energy status; or
+    (d) make a material change of use.
+2. Subject to the following provisions of this regulation, a person to whom this regulation applies shall—
+    (a) give to the building control authority a building notice in accordance with regulation 13; or
+    (b) give an application for building control approval with full plans to the building control authority in accordance with regulation 14.
+3. A person intending to carry out building work in relation to a building to which the Regulatory Reform (Fire Safety) Order 2005 applies, or will apply after the completion of the building work, shall give an application for building control approval with full plans.
+4. A person intending to carry out building work which includes the erection of a building fronting onto a private street shall give an application for building control approval with full plans.
+5. A person intending to carry out building work in relation to which paragraph H4 of Schedule 1 imposes a requirement shall give an application for building control approval with full plans.
+6. A person intending to carry out building work is not required to give a building notice or an application for building control approval with full plans where the work consists only of work—
+    (a) described in column 1 of the Table in Schedule 3 if the work is to be carried out by a person described in the corresponding entry in column 2 of that Table; or
+    (b) described in Schedule 4; ...
+    (c) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6A. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7. Where regulation 17 of the Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (local authority powers in relation to partly completed work) applies, the owner shall comply with the requirements of that regulation instead of with this regulation.
+8. Where—
+    (a) a person proposes to carry out building work which consists of emergency repairs;
+    (b) it is not practicable to comply with paragraph (2) before commencing the work; and
+    (c) paragraph (6) does not apply,
+the person shall give a building notice to the building control authority as soon as reasonably practicable after commencement of the work.
+9. In this regulation—
+- “fronting” has the meaning given in section 203(3) of the Highways Act 1980; ...
+- “private street” has the meaning given in section 203(2) of the Highways Act 1980 ...; and
+- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Source (Wales version): https://www.legislation.gov.uk/uksi/2010/2214/regulation/12/wales

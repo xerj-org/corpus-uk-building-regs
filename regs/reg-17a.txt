@@ -1,0 +1,28 @@
+Regulation 17A — Certificate for building occupied before work is completed
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 3 — Notices, Plans and Certificates
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/england
+This regulation has a different Wales version; it is appended below (the inline text above is the England version).
+XML metadata: in force from 2026-07-01; extent E
+
+1. A relevant authority shall within the specified period give a completion certificate in respect of part or all of a building where building work is being carried out and where all of the following circumstances apply—
+    (a) part or all of the building is to be occupied before the work is completed;
+    (b) the building is subject to the Regulatory Reform (Fire Safety) Order 2005; and
+    (c) the authority is satisfied, after taking all reasonable steps, that, regardless of completion of the current building work, regulation 38 and Part B of Schedule 1 are currently complied with in relation to those parts of the building which are to be occupied before completion of the work.
+2. The specified period referred to in paragraph (1) is four weeks starting from the date that notice is received by the relevant authority in accordance with regulation 16(5).
+3. A certificate given in accordance with this regulation shall be evidence (but not conclusive evidence) that the requirements specified in the certificate have been complied with, and the certificate shall contain this wording.
+4. The certificate must include a statement describing its evidentiary effect, in terms substantially the same as paragraph (3).
+5. Where the relevant authority is the regulator, it must send a copy of each certificate it gives under this regulation in relation to a building to the local authority for the area in which the building is situated.
+
+--- ALTERNATIVE VERSION — applies in Wales only (XML Version container "v10037", RestrictExtent W) ---
+
+1. A building control authority shall within the specified period give a completion certificate in respect of part or all of a building where building work is being carried out and where all of the following circumstances apply—
+    (a) part or all of the building is to be occupied before the work is completed;
+    (b) the building is subject to the Regulatory Reform (Fire Safety) Order 2005; and
+    (c) the authority is satisfied, after taking all reasonable steps, that, regardless of completion of the current building work, regulation 38 and Part B of Schedule 1 are currently complied with in relation to those parts of the building which are to be occupied before completion of the work.
+2. The specified period referred to in paragraph (1) is four weeks starting from the date that notice is received by the building control authority in accordance with regulation 16(5).
+3. A certificate given in accordance with this regulation shall be evidence (but not conclusive evidence) that the requirements specified in the certificate have been complied with, and the certificate shall contain this wording.
+4. The certificate must include a statement describing its evidentiary effect, in terms substantially the same as paragraph (3).
+5. Where the building control authority is a designated local authority under section 91ZD(3) of the Act, it must send a copy of each certificate it gives under this regulation in relation to a building to the local authority for the area in which the building is situated.
+
+Source (Wales version): https://www.legislation.gov.uk/uksi/2010/2214/regulation/17A/wales

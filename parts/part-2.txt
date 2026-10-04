@@ -1,0 +1,15 @@
+PART 2 — Control of Building Work
+Building Regulations 2010 (SI 2010/2214), current version, fetched 2026-10-04
+Source: https://www.legislation.gov.uk/uksi/2010/2214/part/2
+
+Index of provisions in this Part (files under regs/):
+
+  reg 3: Meaning of building work
+  reg 4: Requirements relating to building work
+  reg 5: Meaning of material change of use
+  reg 6: Requirements relating to material change of use [England text; Wales variant appended in file]
+  reg 7: Materials and workmanship [England text; Wales variant appended in file]
+  reg 8: Limitation on requirements
+  reg 9: Exempt buildings and work
+  reg 10: Mayor’s Office for Policing and Crime
+  reg 11: Power to dispense with or relax requirements

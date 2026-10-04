@@ -1,0 +1,21 @@
+Regulation 44I — Application of paragraph S6 of Schedule 1 (the erection of new mixed-use buildings and mixed-use buildings undergoing major renovation)
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 9B — Infrastructure for the charging of electric vehicles
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/44I
+XML metadata: in force from 2022-06-15
+
+1. The requirements of paragraph S6 of Schedule 1 apply to the erection of a new mixed-use building and a mixed-use building undergoing major renovation as follows.
+2. The requirements of paragraph S6 of Schedule 1 apply if, upon completion, such a mixed-use building will have at least one parking space situated within the site boundary of the building.
+3. If such a mixed-use building has, or will have, within its site boundary, a covered car park—
+    (a) if there are or will be any parking spaces situated in a position other than in a covered car park—
+        (i) the requirements of paragraph S6 of Schedule 1 must first be applied in relation to those parking spaces; then
+        (ii) if the number of parking spaces, which are situated in a position other than in a covered car park, is insufficient to completely fulfil the requirements of paragraph S6 of Schedule 1, cable routes for electric vehicle charge points must be installed in accordance with—
+            (aa) regulation 44D(4)(a), in relation to the associated parking spaces for one or more dwellings in a new mixed-use building;
+            (bb) regulation 44F(6)(a), in relation to the associated parking spaces for one or more dwellings in a mixed-use building undergoing major renovation;
+            (cc) regulation 44G(2)(a), in relation to the parking spaces for one or more premises that are not dwellings in a new mixed-use building;
+            (dd) regulation 44H(4)(a), in relation to the parking spaces for one or more premises that are not dwellings in a mixed-use building undergoing major renovation;
+    (b) if all the parking spaces are situated in a covered car park, cable routes for electric vehicle charge points must be installed in accordance with—
+        (i) regulation 44D(4)(b), in relation to the associated parking spaces for one or more dwellings in a new mixed-use building;
+        (ii) regulation 44F(6)(b), in relation to the associated parking spaces for one or more dwellings in a mixed-use building undergoing major renovation;
+        (iii) regulation 44G(2)(b), in relation to the parking spaces for one or more new premises that are not dwellings in a new mixed-use building;
+        (iv) regulation 44H(4)(b), in relation to the parking spaces for one or more premises that are not dwellings in a mixed-use building undergoing major renovation.

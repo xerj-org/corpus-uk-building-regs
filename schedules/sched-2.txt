@@ -1,0 +1,58 @@
+SCHEDULE 2 — Exempt Buildings and Work
+Building Regulations 2010 (SI 2010/2214), current version, fetched 2026-10-04
+Source: https://www.legislation.gov.uk/uksi/2010/2214/schedule/2
+XML metadata: in force from 2024-11-04; extent E+W
+
+CLASS 1
+Buildings controlled under other legislation
+    1. Any building in which explosives are manufactured or stored under a licence granted under the Explosives Regulations 2014 where—
+        (a) the whole building is used for that manufacture or storage, and either
+        (b) a minimum separation distance of greater than 0 metres is prescribed by virtue of regulation 27(1) of, and Schedule 5 to, those Regulations; or
+        (c) a minimum separation distance of 0 metres is prescribed by virtue of the provisions referred to in paragraph (b) and the assent of the local authority was required by regulation 13(3) of those Regulations or would have been so required but for regulation 13(4)(b), (c), (d), (e), (f) or (g) of those Regulations.
+    2. Where only a part of a building is used for the manufacture or storage of explosives under a licence granted under the Explosives Regulations 2014 and —
+        (a) a minimum separation distance of greater than 0 metres is prescribed by virtue of regulation 27(1) of, and Schedule 5 to, those Regulations; or
+        (b) a minimum separation distance of 0 metres is prescribed by virtue of the provisions referred to in paragraph (a) and the assent of the local authority was required by regulation 13(3) of those Regulations or would have been so required but for regulation 13(4)(b), (c), (d), (e), (f) or (g) of those Regulations,
+    that part of the building where the licence specifies that that manufacture or storage may take place.
+2. Any building (other than a building containing a dwelling or a building used for office or canteen accommodation) erected on a site in respect of which a licence under the Nuclear Installations Act 1965 is for the time being in force.
+3. A building included in the schedule of monuments maintained under section 1 of the Ancient Monuments and Archaeological Areas Act 1979 or under section 3 of the Historic Environment (Wales) Act 2023.
+CLASS 2
+Buildings not frequented by people
+1. Subject to paragraph 2, a detached building—
+    (a) into which people do not normally go; or
+    (b) into which people go only intermittently and then only for the purpose of inspecting or maintaining fixed plant or machinery.
+2. The description of buildings in paragraph 1 does not include a building where any point of the building is less than one and a half times its height from—
+    (a) any point of a building into which people can or do normally go; or
+    (b) the nearest point of the boundary of the curtilage of that building,
+whichever is the nearer.
+CLASS 3
+Greenhouses and agricultural buildings
+1. Subject to paragraph 3, a greenhouse.
+2. A building used, subject to paragraph 3, for agriculture, or a building principally for the keeping of animals, provided in each case that—
+    (a) no part of the building is used as a dwelling;
+    (b) no point of the building is less than one and a half times its height from any point of a building which contains sleeping accommodation; and
+    (c) the building is provided with a fire exit which is not more than 30 metres from any point in the building.
+3. The descriptions of buildings in paragraphs 1 and 2 do not include a greenhouse or a building used for agriculture if the principal purpose for which they are used is retailing, packing or exhibiting.
+4. In paragraph 2, “agriculture” includes horticulture, fruit growing, the growing of plants for seed and fish farming.
+CLASS 4
+Temporary buildings
+A building which is not intended to remain where it is erected for more than 28 days.
+CLASS 5
+Ancillary buildings
+1. A building on a site, being a building which is intended to be used only in connection with the disposal of buildings or building plots on that site.
+2. A building on the site of construction or civil engineering works, which is intended to be used only during the course of those works and contains no sleeping accommodation.
+3. A building, other than a building containing a dwelling or used as an office or showroom, erected for use on the site of and in connection with a mine or quarry.
+CLASS 6
+Small detached buildings
+1. A detached single storey building, having a floor area which does not exceed 30m2, which contains no sleeping accommodation and is a building—
+    (a) no point of which is less than one metre from the boundary of its curtilage; or
+    (b) which is constructed substantially of non-combustible material.
+2. A detached building designed and intended to shelter people from the effects of nuclear, chemical or conventional weapons, and not used for any other purpose, if—
+    (a) its floor area does not exceed 30m2; and
+    (b) the excavation for the building is no closer to any exposed part of another building or structure than a distance equal to the depth of the excavation plus one metre.
+3. A detached building, having a floor area which does not exceed 15m2, which contains no sleeping accommodation.
+CLASS 7
+Extensions
+The extension of a building by the addition at ground level of—
+    (a) a conservatory, porch, covered yard or covered way; or
+    (b) a carport open on at least two sides;
+where the floor area of that extension does not exceed 30m2, provided that in the case of a conservatory or porch which is wholly or partly glazed, the glazing satisfies the requirements of Part K4, K5.1, K5.2, K5.3, and K5.4 Part N of Schedule 1.

@@ -1,0 +1,28 @@
+PART 2A — Dutyholders and competence
+Building Regulations 2010 (SI 2010/2214), current version, fetched 2026-10-04
+Source: https://www.legislation.gov.uk/uksi/2010/2214/part/2a
+
+Index of provisions in this Part (files under regs/):
+
+CHAPTER 1 — Client
+  reg 11A: Suitable arrangements to ensure compliance with requirements etc
+  reg 11B: Arrangements as to information: higher-risk building work
+  reg 11C: Domestic clients
+CHAPTER 2
+  reg 11D: Principal designer and principal contractor
+  reg 11E: Considerations before a person carries out work
+CHAPTER 3
+  reg 11F: Competence: general requirement
+  reg 11G: Competence: principal designer
+  reg 11H: Competence: principal contractor
+  reg 11I: Ceasing to be competent: notification
+CHAPTER 4
+  reg 11J: General duty
+  reg 11K: Additional duties of designers
+  reg 11L: Additional duties of contractors
+  reg 11M: Additional duties of a principal designer
+  reg 11N: Additional duties of a principal contractor
+  reg 11O: Notification of change of dutyholder
+CHAPTER 5 — General
+  reg 11P: Minor work
+  reg 11Q: Interpretation of this Part

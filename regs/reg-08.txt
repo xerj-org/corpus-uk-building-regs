@@ -1,0 +1,7 @@
+Regulation 8 — Limitation on requirements
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 2 — Control of Building Work
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/8
+XML metadata: in force from 2018-06-08; extent E and W
+
+Parts A to D, F to K,, N and P (except for paragraphs G2, H2 and J7) of Schedule 1 shall not require anything to be done except for the purpose of securing reasonable standards of health and safety for persons in or about buildings (and any others who may be affected by buildings, or matters connected with buildings).

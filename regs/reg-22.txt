@@ -1,0 +1,7 @@
+Regulation 22 — Requirements relating to a change to energy status
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 6 — Energy Efficiency Requirements
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/22
+XML metadata: in force from 2010-10-01
+
+Where there is a change to a building's energy status, such work, if any, shall be carried out as is necessary to ensure that the building complies with the applicable requirements of Part L of Schedule 1.

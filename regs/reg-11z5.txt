@@ -1,0 +1,21 @@
+Regulation 11Z5 — Additional duties of a principal contractor: Wales
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 2B - WALES — Dutyholders and competence
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/11Z5
+XML metadata: in force from 2026-07-01
+
+1. The principal contractor must—
+    (a) plan, manage and monitor the building work during the construction phase, and
+    (b) coordinate matters relating to the building work comprised in the project to ensure the building work complies with all relevant requirements.
+2. The principal contractor must take all reasonable steps to ensure—
+    (a) contractors and any other person involved in relation to the building work cooperate with the client, the principal designer, the principal contractor and each other (including any successor in a role),
+    (b) the building work of all contractors is coordinated so that the work complies with all relevant requirements, and
+    (c) contractors and any other person involved in relation to building work comply with the duties under these Regulations.
+3. The principal contractor must liaise with the principal designer and share with the principal designer any information relevant to—
+    (a) the planning, management and monitoring of the design work, and
+    (b) the coordination of building work and design work to ensure compliance with all relevant requirements.
+4. Where the principal designer provides comments to the principal contractor in relation to compliance with the relevant requirements the principal contractor must have regard to those comments.
+5. The principal contractor must—
+    (a) if requested, assist the client in providing information to other designers and contractors;
+    (b) when the principal contractor’s appointment ends, no later than 28 days after the date their appointment ends, give to the client a document explaining the arrangements it put in place to fulfil the duties under paragraphs (1) to (3).
+6. Where a replacement principal contractor is appointed, they must review the arrangements the previous principal contractor put in place for fulfilling the duties under paragraphs (1) to (3) to ensure that the building work complies with all relevant requirements.

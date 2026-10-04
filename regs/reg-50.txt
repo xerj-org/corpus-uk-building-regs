@@ -1,0 +1,13 @@
+Regulation 50 — Transitional provisions: work already started before 1st October
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 10 — Miscellaneous
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/50
+XML metadata: in force from 2010-10-01
+
+1. Subject to paragraph (2), where before 1st October 2010 building work is started in accordance with—
+    (a) a building notice given to, or full plans deposited with, a local authority under regulation 12(2A) of the Building Regulations 2000 (giving of a building notice or deposit of plans) and a notice given to the local authority under regulation 15(1) of those Regulations (notice of commencement and completion of certain stages of work);
+    (b) an initial notice or an amendment notice given in accordance with section 47(1) (giving and acceptance of initial notice) or 51A(2) of the Act (variation of work to which initial notice relates);
+    (c) a public body's notice given in accordance with section 54 (giving, acceptance and effect of public body's notice) of the Act,
+the Building Regulations 2000 as last amended by the 2009 Regulations shall continue to apply to that building work.
+2. Where before 1st October 2010 building work is started in accordance with an initial notice which is varied by an amendment notice given on or after that date, the Building Regulations 2000 as last amended by the 2009 Regulations shall continue to apply to so much of the building work as could have been carried out under that initial notice if the amendment notice had not been given.
+3. Where before 1st October 2010 building work is started to which regulation 12(5)(a) or (b) of the Building Regulations applies, the Building Regulations 2000 as last amended by the 2009 Regulations shall continue to apply to that building work.

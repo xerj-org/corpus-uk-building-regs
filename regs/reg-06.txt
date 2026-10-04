@@ -1,0 +1,54 @@
+Regulation 6 — Requirements relating to material change of use
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 2 — Control of Building Work
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/england
+This regulation has a different Wales version; it is appended below (the inline text above is the England version).
+XML metadata: in force from 2025-12-20; extent E
+
+1. Where there is a material change of use of the whole of a building, such work, if any, shall be carried out as is necessary to ensure that the building complies with the applicable requirements of the following paragraphs of Schedule 1—
+    (a) in all cases, B1 (means of warning and escape)
+    B2 (internal fire spread—linings)B3 (internal fire spread—structure)B4(2) (external fire spread—roofs)B5 (access and facilities for the fire service)C2(c) (interstitial and surface condensation)F1 (ventilation)G1 (cold water supply)G3(1) to (3) (hot water supply and systems)G4 (sanitary conveniences and washing facilities)G5 (bathrooms)G6 (kitchens and food preparation areas)...H1 (foul water drainage)H6 (solid waste storage)J1 to J4 (combustion appliances)L1 (conservation of fuel and power)P1 (electrical safety); S2 (infrastructure for the charging of electric vehicles) T1 (Toilet Accommodation)
+    (b) in the case of a material change of use described in regulation 5(c), (d), (e) or (f), A1 to A3 (structure);
+    (c) in the case of a building exceeding eleven metres in height, B4(1) (external fire spread—walls);
+    (d) in the case of a material change of use described in regulation 5(a), (b), (c), (d), (g), (h), (i) or, where the material change provides new residential accommodation, (f), C1(2) (resistance to contaminants);
+    (e) in the case of a material change of use described in regulation 5(a), C2 (resistance to moisture);
+    (f) in the case of a material change of use described in regulation 5(a), (b), (c), (g), (h) or (i), E1 to E3 (resistance to the passage of sound);
+    (g) in the case of a material change of use described in regulation 5(e), where the public building consists of or contains a school, E4 (acoustic conditions in schools);
+    (h) in the case of a material change of use described in regulation 5(a) or (b), G2 (water efficiency) and G3(4) (hot water supply and systems: hot water supply to fixed baths);
+    (i) in the case of a material change of use described in regulation 5(c), (d), (e) or (j), M1 (access to and use of buildings other than dwellings);
+    (j) in the case of a material change of use described in regulation 5(a), (b) or (g), Q1 (security).
+2. Where there is a material change of use of part only of a building, such work, if any, shall be carried out as is necessary to ensure that—
+    (a) that part complies in all cases with any applicable requirements referred to in paragraph (1)(a);
+    (b) in a case in which sub-paragraphs (b), (e), (f), (g) or (h) of paragraph (1) apply, that part complies with the requirements referred to in the relevant sub-paragraph;
+    (c) in a case to which sub-paragraph (c) of paragraph (1) applies, the whole building complies with the requirement referred to in that sub-paragraph; ...
+    (d) in a case to which sub-paragraph (i) of paragraph (1) applies—
+        (i) that part and any sanitary conveniences provided in or in connection with that part comply with the requirements referred to in that sub-paragraph; and
+        (ii) the building complies with requirement M1(a) of Schedule 1 to the extent that reasonable provision is made to provide either suitable independent access to that part or suitable access through the building to that part;
+    (e) in a case to which subparagraph (j) applies in respect of a material change of use described in regulation 5(b) or (g), that part complies with the requirement referred to in that subparagraph.
+3. Subject to paragraph (4), where there is a material change of use described in regulation 5(k), such work, if any, shall be carried out as is necessary to ensure that any external wall, or specified attachment, of the building only contains materials of European Classification A2-s1, d0 or A1 (classified in accordance with the reaction to fire classification).
+4. Paragraph (3) does not apply to the items listed in regulation 7(3).
+
+--- ALTERNATIVE VERSION — applies in Wales only (XML Version container "v10028", RestrictExtent W) ---
+
+1. Where there is a material change of use of the whole of a building, such work, if any, shall be carried out as is necessary to ensure that the building complies with the applicable requirements of the following paragraphs of Schedule 1—
+    (a) in all cases, B1 (means of warning and escape)
+    B2 (internal fire spread—linings)B3 (internal fire spread—structure)B4(2) (external fire spread—roofs)B5 (access and facilities for the fire service)C2(c) (interstitial and surface condensation)F1 (ventilation)G1 (cold water supply)G3(1) to (3) (hot water supply and systems)G4 (sanitary conveniences and washing facilities)G5 (bathrooms)G6 (kitchens and food preparation areas)...H1 (foul water drainage)H6 (solid waste storage)J1 to J4 (combustion appliances)L1 (conservation of fuel and power)P1 (electrical safety);
+    (b) in the case of a material change of use described in regulation 5(c), (d), (e) or (f), A1 to A3 (structure);
+    (c) in the case of a building exceeding eleven metres in height, B4(1) (external fire spread—walls);
+    (d) in the case of a material change of use described in regulation 5(a), (b), (c), (d), (g), (h), (i) or, where the material change provides new residential accommodation, (f), C1(2) (resistance to contaminants);
+    (e) in the case of a material change of use described in regulation 5(a), C2 (resistance to moisture);
+    (f) in the case of a material change of use described in regulation 5(a), (b), (c), (g), (h) or (i), E1 to E3 (resistance to the passage of sound);
+    (g) in the case of a material change of use described in regulation 5(e), where the public building consists of or contains a school, E4 (acoustic conditions in schools);
+    (h) in the case of a material change of use described in regulation 5(a) or (b), G2 (water efficiency) and G3(4) (hot water supply and systems: hot water supply to fixed baths);
+    (i) in the case of a material change of use described in regulation 5(c), (d), (e) or (j), M1 (access and use);
+2. Where there is a material change of use of part only of a building, such work, if any, shall be carried out as is necessary to ensure that—
+    (a) that part complies in all cases with any applicable requirements referred to in paragraph (1)(a);
+    (b) in a case in which sub-paragraphs (b), (e), (f), (g) or (h) of paragraph (1) apply, that part complies with the requirements referred to in the relevant sub-paragraph;
+    (c) in a case to which sub-paragraph (c) of paragraph (1) applies, the whole building complies with the requirement referred to in that sub-paragraph; and
+    (d) in a case to which sub-paragraph (i) of paragraph (1) applies—
+        (i) that part and any sanitary conveniences provided in or in connection with that part comply with the requirements referred to in that sub-paragraph; and
+        (ii) the building complies with requirement M1(a) of Schedule 1 to the extent that reasonable provision is made to provide either suitable independent access to that part or suitable access through the building to that part;
+3. Subject to paragraph (4), where there is a material change of use described in regulation 5(k), such work, if any, must be carried out as is necessary to ensure that any external wall, or specified attachment, of the building only contains materials of a minimum European Classification A2-s1, d0 or A1, classified in accordance with BS EN 13501-1:2018 entitled “Fire classification of construction products and building elements. Classification using test data from reaction to fire tests” (ISBN 978 0 580 95726 0) published by the British Standards Institution on 14th January 2019.
+4. Paragraph (3) does not apply to the items listed in regulation 7(3).
+
+Source (Wales version): https://www.legislation.gov.uk/uksi/2010/2214/regulation/6/wales

@@ -1,0 +1,8 @@
+Regulation 47O — Application to the magistrates’ court in relation to extension of the specified period in a compliance notice: Wales
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 10 — Miscellaneous
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/47O
+XML metadata: in force from 2026-07-20
+
+1. An application to the magistrates’ court under section 39A(3) of the Act in relation to a compliance notice must be made within 15 ... days beginning with the date the compliance notice is given.
+2. In deciding the question set out in an application under section 39A(3) of the Act the magistrates’ court must consider whether the recipient of the notice has demonstrated they are unable to comply within the specified period and it is reasonable to extend it.

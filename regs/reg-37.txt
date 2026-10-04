@@ -1,0 +1,24 @@
+Regulation 37 — Wholesome water consumption calculation
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 7 — Water Efficiency
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/england
+This regulation has a different Wales version; it is appended below (the inline text above is the England version).
+XML metadata: in force from 2026-07-01; extent E
+
+1. Where regulation 36 applies, the person carrying out the work must give the building control authority a notice which specifies—
+    (a) which of the requirements in regulation 36(2)(a) or (b) applies to the dwelling; and
+    (b) the potential consumption of wholesome water per person per day in relation to the completed dwelling.
+2. The person carrying out the work must—
+    (a) where the dwelling is within a higher-risk building, ensure the notice accompanies the application for a completion certificate in relation to the work;
+    (b) in any other case, give the notice to the building control authority not later than five days after the work has been completed.
+3. Where the regulator is the building control authority by virtue of section 91ZB of the Act (the regulator: building control authority for other work), it must send a copy of each notice it receives under this regulation in relation to a building to the local authority for the area in which the building is situated.
+
+--- ALTERNATIVE VERSION — applies in Wales only (XML Version container "v10007", RestrictExtent W) ---
+
+1. Where regulation 36 applies, the person carrying out the work must give the building control authority a notice which specifies the potential consumption of wholesome water per person per day in relation to the completed dwelling.
+2. The person carrying out the work must—
+    (a) where the dwelling is within a higher-risk building, ensure the notice accompanies the completion certificate application in relation to the work;
+    (b) in any other case, give the notice to the building control authority not later than 5 days after the date the work has been completed.
+3. Where the building control authority is a designated local authority under section 91ZD of the Act, it must send a copy of each notice it receives under this regulation in relation to a building to the local authority for the area in which the building is situated.
+
+Source (Wales version): https://www.legislation.gov.uk/uksi/2010/2214/regulation/37/wales

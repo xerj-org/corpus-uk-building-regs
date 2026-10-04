@@ -1,0 +1,10 @@
+Regulation 11Z1 — General duty: Wales
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 2B - WALES — Dutyholders and competence
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/11Z1
+XML metadata: in force from 2026-07-01
+
+1. Any person carrying out any building work must ensure the work carried out by them (and by any workers under their control) is planned, managed and monitored so as to be in compliance with all relevant requirements.
+2. Any person carrying out any design work must take all reasonable steps to ensure the design work carried out by them (and by any workers under their control) is planned, managed and monitored so that the design is such that if the building work to which the design relates were built in accordance with that design the building work would be in compliance with all relevant requirements.
+3. Any person carrying out any building work must cooperate with the client, designers and contractors (including the principal designer and principal contractor, if any) to the extent necessary to ensure that the work complies with all relevant requirements.
+4. Any person carrying out any design work must cooperate with the client, designers and contractors (including the principal designer and principal contractor, if any) to the extent necessary to ensure that the design is such that if the building work to which the design relates were built in accordance with that design the building work would be in compliance with all relevant requirements.

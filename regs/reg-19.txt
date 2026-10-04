@@ -1,0 +1,8 @@
+Regulation 19 — Supervision of building work otherwise than by local authorities
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 4 — Supervision of Building Work Otherwise than by Local Authorities
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/19
+XML metadata: in force from 2026-07-01; extent E and W
+
+1. Regulations 12 (giving of a building notice or deposit of plans), 16 (notice of commencement and completion of certain stages of work), 17 (completion certificates), 17A (Certificate for building occupied before work is completed) 20 (provisions applicable to self-certification schemes), 27 (CO2 emission rate calculations), 27A (fabric energy efficiency rate calculations), 27C (target primary energy rate calculations for new buildings), ... 37 (wholesome water consumption calculation), 41 (sound insulation testing), 42 (mechanical ventilation air flow rate testing), 43 (pressure testing), 44 (commissioning) ... shall not apply in respect of any work specified in an initial notice, an amendment notice or a public body's notice, which is in force.
+2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .

@@ -1,0 +1,32 @@
+Regulation 47A — Compliance notices: excluded provisions
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 10 — Miscellaneous
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/47A
+XML metadata: in force from 2024-04-06
+
+The following provisions of these Regulations are prescribed for the purposes of section 35B(7)(a) of the Act as provisions in relation to which a compliance notice may not be given—
+(a) regulation 14A (determination of applications for building control approval with full plans),
+(b) regulation 15A (consultation in relation fire safety),
+(c) regulation 16(3D) and (3E) (notice as to commencement of work),
+(d) regulation 17 (completion certificates),
+(e) regulation 17A (certificate for building occupied before work is completed),
+(f) regulation 18(6A) (unauthorised building work),
+(g) regulation 18E(8) and (12) (appeals under section 101A of the Act),
+(h) regulation 19C(2) (regulator’s notices: grounds for rejection),
+(i) regulation 19E (regulator’s notices: direction),
+(j) regulation 20(6A) (provisions applicable to self-certification schemes),
+(k) regulation 20A(7A) (provisions applicable to third party certification schemes),
+(l) regulation 25A(3A) (consideration of high-efficiency alternative systems for new buildings),
+(m) regulation 27(4A) (CO2 emission rate calculations),
+(n) regulation 27A(4A) (fabric energy efficiency rate calculations),
+(o) regulation 27C(4A) (target primary energy rate calculations for new buildings),
+(p) regulation 37(3) (wholesome water consumption calculation),
+(q) regulation 41(3A) (sound insulation testing),
+(r) regulation 42(4) (mechanical ventilation air flow rate testing),
+(s) regulation 43(6) (pressure testing),
+(t) regulation 44(5) (commissioning),
+(u) regulation 44ZA(4) (commissioning in respect of a system for on-site electricity generation),
+(v) regulation 47B (compliance notices: contents),
+(w) regulation 47C (stop notices: contents),
+(x) regulation 47D(3) (compliance and stop notices: notification),
+(y) regulation 47E(2) (compliance and stop notices: withdrawal).

@@ -1,0 +1,42 @@
+Regulation 17 — Completion certificates
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 3 — Notices, Plans and Certificates
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/england
+This regulation has a different Wales version; it is appended below (the inline text above is the England version).
+XML metadata: in force from 2026-10-01; extent E
+
+1. Subject to paragraph (2B), a relevant authority shall within the specified period give a completion certificate in all cases (including a case where a certificate has already been given under regulation 17A) where they are satisfied, after taking all reasonable steps, that, following completion of building work carried out on a building, the relevant provisions have been complied with in relation to the building.
+2. The specified period referred to in paragraph (1) is eight weeks starting from the date that notice is received by the relevant authority in accordance with regulation 16(4) of these Regulations or 22A(1) of the Building (Registered Building Control Approvers etc.) (England) Regulations 2024.
+2A. The relevant provisions referred to in paragraph (1) are any applicable requirements of the following provisions—
+    (a) regulation 25A (high-efficiency alternative systems for new buildings);
+    (b) regulation 26 (target CO² emission rates for new buildings);
+    (c) regulation 26A (target fabric energy efficiency requirements for new dwellings);
+    (cc) regulation 26C (target primary energy rates for new buildings);
+    (d) regulation 36 (water efficiency of new dwellings);
+    (e) regulation 38 (fire safety information); ...
+    (f) Schedule 1,
+2B. Where the notice referred to in paragraph (2) was required by regulation 16(4A)(f) to include a levy liability statement, the relevant authority must not give a completion certificate unless it has received a notification under regulation 63(2) or (4) of the BSL Regulations stating that the collecting authority agrees with the levy liability statement.
+(g) regulation 7A (energy performance certificates on construction) of the Energy Performance of Buildings (England and Wales) Regulations 2012.
+4. A certificate given in accordance with this regulation shall be evidence (but not conclusive evidence) that the requirements specified in the certificate have been complied with.
+5. The certificate must include a statement describing its evidentiary effect, in terms substantially the same as paragraph (4).
+6. Where the relevant authority is the regulator, it must send a copy of each certificate it gives under this regulation in relation to a building to the local authority for the area in which the building is situated.
+
+--- ALTERNATIVE VERSION — applies in Wales only (XML Version container "v10036", RestrictExtent W) ---
+
+1. A building control authority shall within the specified period give a completion certificate in all cases (including a case where a certificate has already been given under regulation 17A) where they are satisfied, after taking all reasonable steps, that, following completion of building work carried out on a building, the relevant provisions have been complied with in relation to the building.
+2. The specified period referred to in paragraph (1) is 8 weeks starting from the date that notice under regulation 16(4) of these Regulations or regulation 17A(1) of the Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 is received by the building control authority.
+2A. The relevant provisions referred to in paragraph (1) are any applicable requirements of the following provisions—
+    (a) regulation 25A (high-efficiency alternative systems for new buildings);
+    (b) regulation 26 (target CO² emission rates for new buildings);
+    (c) regulation 26A (primary energy ... rates for new buildings),
+    (ca) regulation 26B (fabric performance values for new dwellings),
+    (cb) regulation 26C (target primary energy rates for new buildings),
+    (d) regulation 36 (water efficiency of new dwellings);
+    (e) regulation 38 (fire safety information); ...
+    (f) Schedule 1,
+(g) regulation 7A (energy performance certificates on construction) of the Energy Performance of Buildings (England and Wales) Regulations 2012.
+4. A certificate given in accordance with this regulation shall be evidence (but not conclusive evidence) that the requirements specified in the certificate have been complied with.
+5. The certificate must include a statement describing its evidentiary effect, in terms substantially the same as paragraph (4).
+6. Where the building control authority is a designated local authority under section 91ZD(3) of the Act, it must send a copy of each certificate it gives under this regulation in relation to a building to the local authority for the area in which the building is situated.
+
+Source (Wales version): https://www.legislation.gov.uk/uksi/2010/2214/regulation/17/wales

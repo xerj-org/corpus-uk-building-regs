@@ -1,0 +1,13 @@
+Regulation 11Z — Ceasing to be competent: notification: Wales
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 2B - WALES — Dutyholders and competence
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/11Z
+XML metadata: in force from 2026-07-01
+
+1. Where at any time a person (A) ceases to satisfy the requirements in regulation 11W(1) and (2), 11X(1) or, as the case may be, 11Y(1) in relation to any building work or any design work, A must—
+    (a) in a case where A is the principal designer or the principal contractor, notify the client;
+    (b) in a case where there is more than one designer and A is a designer, notify the person who asked them to carry out the design work and the principal designer;
+    (c) in a case where there is more than one contractor and A is a contractor, notify the person who asked them to carry out the building work and the principal contractor;
+    (d) in any other case, notify the person who asked them to carry out the work.
+2. If at the time of the notification under paragraph (1)(b) there is no principal designer appointed, that paragraph has effect as if the reference to the principal designer were a reference to the client.
+3. If at the time of the notification under paragraph (1)(c) there is no principal contractor appointed, that paragraph has effect as if the reference to the principal contractor were a reference to the client

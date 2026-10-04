@@ -1,0 +1,17 @@
+Regulation 25 — Minimum energy performance requirements for new buildings
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 6 — Energy Efficiency Requirements
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/england
+This regulation has a different Wales version; it is appended below (the inline text above is the England version).
+XML metadata: in force from 2023-06-05; extent E
+
+Minimum energy performance requirements shall be approved by the Secretary of State, calculated and expressed in accordance with the methodology approved pursuant to regulation 24, for—
+(a) new buildings (which shall include new dwellings), in the form of target CO2 emission rates; ...
+(b) new dwellings, in the form of target fabric energy efficiency rates; and
+(c) new buildings in the form of target primary energy rates.
+
+--- ALTERNATIVE VERSION — applies in Wales only (XML Version container "v10005", RestrictExtent W) ---
+
+The Welsh Ministers shall approve minimum energy performance requirements for new buildings, in the form of target CO² emission rates, which shall be calculated and expressed in accordance with the methodology approved pursuant to regulation 24.
+
+Source (Wales version): https://www.legislation.gov.uk/uksi/2010/2214/regulation/25/wales

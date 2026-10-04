@@ -1,0 +1,12 @@
+Regulation 19C — Regulator’s notices: grounds for rejection
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 4 — Supervision of Building Work Otherwise than by Local Authorities
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/19C
+XML metadata: in force from 2023-10-01
+
+1. The following grounds are prescribed for the purposes of section 91ZC(2) of the Act—
+    (a) the conditions in regulation 19A (regulator’s notices: description of work and connection) are not satisfied in relation to the work specified in the notice;
+    (b) the work specified in the notice is not within the area of the local authority;
+    (c) that an application for building control approval, an initial notice or a public body’s notice has been given in relation to the work (or any part of it);
+    (d) the notice does not comply with the requirements of regulation 19B (regulator’s notices: content of notices).
+2. For the purposes of section 91ZC(3) of the Act a notice of rejection must be given within five days of the day on which the regulator’s notice is given.

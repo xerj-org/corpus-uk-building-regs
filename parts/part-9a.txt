@@ -1,0 +1,14 @@
+PART 9A — Infrastructure for electronic communications
+Building Regulations 2010 (SI 2010/2214), current version, fetched 2026-10-04
+Source: https://www.legislation.gov.uk/uksi/2010/2214/part/9a
+
+Index of provisions in this Part (files under regs/):
+
+  reg 44ZB: Exemptions from paragraphs RA1 and RA2 of Schedule 1
+  reg 44ZC: Cases in which paragraph RA2 of Schedule 1 modified or excluded
+  reg 44ZAA: Particulars of connection to public electronic communications network
+  reg 44ZB: Exemptions from paragraphs RA1 and RA2 of Schedule 1
+  reg 44ZC: Cases in which paragraph RA2 of Schedule 1 modified or excluded
+  reg 44A: Application of paragraph R1 of Schedule 1 to educational buildings, buildings of statutory undertakers and Crown buildings [England text; Wales variant appended in file]
+  reg 44B: Exemptions from paragraph R1 of Schedule 1
+  reg 44C: Interpretation of Part 9A and of Part R of Schedule 1

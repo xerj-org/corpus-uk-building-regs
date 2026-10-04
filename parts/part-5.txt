@@ -1,0 +1,8 @@
+PART 5 — Self-certification schemes and third party certification schemes
+Building Regulations 2010 (SI 2010/2214), current version, fetched 2026-10-04
+Source: https://www.legislation.gov.uk/uksi/2010/2214/part/5
+
+Index of provisions in this Part (files under regs/):
+
+  reg 20: Provisions applicable to self-certification schemes
+  reg 20A: Provisions applicable to third party certification schemes

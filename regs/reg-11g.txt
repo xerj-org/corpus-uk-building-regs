@@ -1,0 +1,12 @@
+Regulation 11G — Competence: principal designer
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 2A — Dutyholders and competence
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/11G
+XML metadata: in force from 2023-10-01
+
+1. A principal designer must have—
+    (a) where the person is an individual, the skills, knowledge, experience and behaviours necessary,
+    (b) where the person is not an individual, the organisational capability,
+to fulfil the duties of a principal designer under these Regulations in relation to the design work included in the project.
+2. Where the principal designer (D) is not an individual, D must designate an individual who has the task of managing its functions as the principal designer.
+3. Before making the designation under paragraph (2), D must take all reasonable steps to satisfy themself that the individual to be designated has the skills, knowledge, experience and behaviours necessary to manage the function of principal designer on behalf of D in such a wayas to ensure D fulfils the duties of the principal designer under these Regulations in relation to the design work included in the project.

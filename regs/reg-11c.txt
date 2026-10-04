@@ -1,0 +1,15 @@
+Regulation 11C — Domestic clients
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 2A — Dutyholders and competence
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/11C
+XML metadata: in force from 2023-10-01
+
+1. Where the client is a domestic client the duties in regulations 11A(1) to (3) and 11E(2) to (5) must be carried out by—
+    (a) where there is only one contractor for a project, the contractor;
+    (b) where there is more than one contractor for a project—
+        (i) the principal contractor; or
+        (ii) the principal designer where the client and the principal designer agree in writing the principal designer is to fulfil those duties.
+2. If a domestic client fails to make the appointments required by regulation 11D (principal designer and principal contractor)—
+    (a) the designer in control of the design phase of the project is the principal designer;
+    (b) the contractor in control of the construction phase of the project is the principal contractor.
+3. Regulation 11D(5) does not apply to a domestic client.

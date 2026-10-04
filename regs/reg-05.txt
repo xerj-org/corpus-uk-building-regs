@@ -1,0 +1,18 @@
+Regulation 5 — Meaning of material change of use
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 2 — Control of Building Work
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/5
+XML metadata: in force from 2026-07-01
+
+For ... the purposes of these Regulations, there is a material change of use where there is a change in the purposes for which or the circumstances in which a building is used, so that after that change—
+(a) the building is used as a dwelling, where previously it was not;
+(b) the building contains a flat, where previously it did not;
+(c) the building is used as an hotel or a boarding house, where previously it was not;
+(d) the building is used as an institution, where previously it was not;
+(e) the building is used as a public building, where previously it was not;
+(f) the building is not a building described in classes 1 to 6 in Schedule 2, where previously it was;
+(g) the building, which contains at least one dwelling, contains a greater or lesser number of dwellings than it did previously;
+(h) the building contains a room for residential purposes, where previously it did not;
+(i) the building, which contains at least one room for residential purposes, contains a greater or lesser number of such rooms than it did previously; ...
+(j) the building is used as a shop, where previously it was not; or
+(k) the building is a building described in regulation 7(4)(a), where previously it was not.

@@ -1,0 +1,12 @@
+Regulation 24 — Methodology of calculation and expression of energy performance
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 6 — Energy Efficiency Requirements
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/24
+XML metadata: in force from 2016-06-17
+
+1. The Secretary of State shall approve—
+    (a) a methodology of calculation of the energy performance of buildings, including methods for calculating asset ratings and operational ratings of buildings; and
+    (b) ways in which the energy performance of buildings, as calculated in accordance with the methodology, shall be expressed.
+2. In this regulation—
+- “asset rating” means an energy performance indicator determined from the amount of energy estimated to meet the different needs associated with a standardised use of the building; and
+- “operational rating” means an energy performance indicator determined from the amount of energy consumed during the occupation of a building over a period of time and the energy demand associated with a typical use of the building over that period.

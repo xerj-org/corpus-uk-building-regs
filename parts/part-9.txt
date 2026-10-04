@@ -1,0 +1,11 @@
+PART 9 — Testing and Commissioning
+Building Regulations 2010 (SI 2010/2214), current version, fetched 2026-10-04
+Source: https://www.legislation.gov.uk/uksi/2010/2214/part/9
+
+Index of provisions in this Part (files under regs/):
+
+  reg 41: Sound insulation testing [England text; Wales variant appended in file]
+  reg 42: Mechanical ventilation air flow rate testing [England text; Wales variant appended in file]
+  reg 43: Pressure testing
+  reg 44: Commissioning [England text; Wales variant appended in file]
+  reg 44ZA: Commissioning in respect of a system for on-site electricity generation [England text; Wales variant appended in file]

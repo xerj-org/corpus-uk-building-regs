@@ -1,0 +1,8 @@
+Regulation 11S — Arrangements as to information: higher-risk building work: Wales
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 2B - WALES — Dutyholders and competence
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/11S
+XML metadata: in force from 2026-07-01
+
+1. A client must make suitable arrangements to ensure information is provided to the designers and contractors working on a project which includes any higher-risk building work, to make them aware that the project includes higher-risk building work and the nature of the higher-risk building work.
+2. Paragraph (1) includes a duty to periodically review the building work (and the design work) included or to be included in the project so as to identify whether it is higher-risk building work and to ensure information is provided under paragraph (1) where the work becomes higher-risk building work.

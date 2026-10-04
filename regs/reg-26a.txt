@@ -1,0 +1,14 @@
+Regulation 26A — Fabric energy efficiency rates
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 6 — Energy Efficiency Requirements
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/england
+This regulation has a different Wales version; it is appended below (the inline text above is the England version).
+XML metadata: in force from 2022-11-23; extent E and W
+
+Where a dwelling is erected, it shall not exceed the target fabric energy efficiency rate for the dwelling that has been approved pursuant to regulation 25, applying the methodology of calculation and expression of the energy performance of buildings approved pursuant to regulation 24.
+
+--- ALTERNATIVE VERSION — applies in Wales only (XML Version container "v10002", RestrictExtent W) ---
+
+Where a building ... is erected, it must not exceed the target primary energy ... rate for the building which has been approved pursuant to regulation 25C(a), applying the methodology of calculation and expression of the energy performance of buildings approved pursuant to regulation 24.
+
+Source (Wales version): https://www.legislation.gov.uk/uksi/2010/2214/regulation/26A/wales

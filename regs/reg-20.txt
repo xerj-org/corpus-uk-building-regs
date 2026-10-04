@@ -1,0 +1,26 @@
+Regulation 20 — Provisions applicable to self-certification schemes
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 5 — Self-certification schemes and third party certification schemes
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/20
+XML metadata: in force from 2026-07-01; extent E and W
+
+1. This regulation applies to the extent that the building work consists only of work of a type described in column 1 of the Table in Schedule 3 and the work is carried out by a person who is described in the corresponding entry in column 2 of that Table in respect of that type of work.
+1A. Where this regulation applies and the building work in question relates to a higher-risk building, the client must make the person carrying out the work aware that the building is a higher-risk building.
+2. Where this regulation applies, the building control authority are authorised to accept, as evidence that the requirements of regulations 4 and 7 have been satisfied, a certificate to that effect by the person carrying out the work.
+3. Where this regulation applies, the person carrying out the work shall, not more than 30 days after the completion of the work—
+    (a) give to the occupier a copy of the certificate referred to in paragraph (2); and
+    (b) give to the building control authority—
+        (i) notice to that effect, or
+        (ii) the certificate referred to in paragraph (2).
+3A. A building control authority shall store in a retrievable form copies of the notices and certificates given to it in accordance with paragraph (3)(b).
+3B. If the whole or part of the work was paid for using a green deal plan, the person carrying out the work must include—
+    (a) in the certificate referred to in paragraph (2); and
+    (b) in the notice given to the building control authority referred to in paragraph (3)(b)(i),
+a statement to that effect.
+3C. Such a statement that relates to a part of the work must specify which part was paid for using the green deal plan.
+3D. In this regulation, “green deal plan” has the meaning given in section 1 of the Energy Act 2011.
+4. Paragraph (3) of this regulation does not apply where a person carries out any building work described in Schedule 4.
+5. A certificate given in accordance with this regulation shall be evidence (but not conclusive evidence) that the requirements specified in the certificate have been complied with, and the certificate shall contain this wording.
+6. The certificate must include a statement describing its evidentiary effect, in terms substantially the same as paragraph (5).
+6A. Where the regulator is the building control authority by virtue of section 91ZB of the Act (the regulator: building control authority for other work), it must send a copy of each notice or certificate it receives under this regulation in relation to a building to the local authority for the area in which the building is situated.
+6A. Where the building control authority is a designated local authority under section 91ZD of the Act, it must send a copy of each notice or certificate it receives under this regulation in relation to a building to the local authority for the area in which the building is situated.

@@ -1,0 +1,13 @@
+Regulation 15A — Consultation in relation to fire safety
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 3 — Notices, Plans and Certificates
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/15A
+XML metadata: in force from 2023-10-01
+
+1. This regulation applies where it is proposed—
+    (a) to erect, extend or make any structural alteration to a building to which the Regulatory Reform (Fire Safety) Order 2005 applies or will apply after completion of the work, or
+    (b) to change the use of a building to which the Regulatory Reform (Fire Safety) Order 2005 applies or will apply after the change of use,
+and, in connection with that proposal, an application for building control approval with full plans is given to a relevant authority.
+2. Subject to paragraph (3), where this regulation applies the relevant authority must consult the enforcing authority before determining the application for building control approval with full plans given to the relevant authority.
+3. The duty to consult imposed by paragraph (2) does not apply where the relevant authority is the enforcing authority.
+4. In this regulation “enforcing authority” has the same meaning as in article 25 of the Regulatory Reform (Fire Safety) Order 2005.

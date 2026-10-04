@@ -1,0 +1,140 @@
+Regulation 2 — Interpretation
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 1 — General
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/2
+XML metadata: in force from 2026-10-01; extent E and W
+
+1. In these Regulations, unless the context otherwise requires—
+- “the Act” means the Building Act 1984;
+- “Green Deal Framework Regulations” means the Green Deal Framework (Disclosure, Acknowledgment, Redress etc.) Regulations 2012;
+- “amendment notice” means a notice given under section 51A of the Act;
+- “application for building control approval with full plans” means an application for building control approval in accordance with regulations 12(2)(b) and 14;
+- “application for a completion certificate” in relation to a higher-risk building work, has the same meaning as “completion certificate application” in regulation 2 of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023;
+- “bedspace” has the meaning given in the BSL Regulations;
+- “BSL Regulations” means the Building Safety Levy (England) Regulations 2025;
+- “building” means any permanent or temporary building but not any other kind of structure or erection, and a reference to a building includes a reference to part of a building;
+- “building”—in the application of any provision of these Regulations to the construction of a higher-risk building, has the meaning given in regulation 4 of the Higher-Risk Buildings (Descriptions and Supplementary Provisions) Regulations 2023;in any other case, means any permanent or temporary building but not any other kind of structure or erection, and a reference to a building includes a reference to part of a building;
+- “building control approval” has the meaning given by paragraph 1B of Schedule 1 to the Act;
+- “building control authority” has the meaning given in section 121A of the Act;
+- “building notice” means a notice given in accordance with regulations 12(2)(a) and 13;
+- “building work” has the meaning given in regulation 3(1);
+- “business” means a trade, business or other undertaking (whether for profit or not);
+- “change to a building's energy status” means any change which results in a building becoming a building to which the energy efficiency requirements of these Regulations apply, where previously it was not;
+- “client” means any person for whom a project is carried out;
+- “collecting authority” has the meaning given in the BSL Regulations;
+- “communal space for residents” has the meaning given in the BSL Regulations;
+- “completion certificate application” has the meaning given in regulation 39(1) of the Building (Higher-Risk Buildings Procedures) (Wales) Regulations 2025;
+- “construction phase” means the period beginning when any building work on a project starts and ending when that project is completed;
+- “contractor” means any person (including a client, but not a domestic client) who, in the course of a business, carries out, manages or controls any building work;
+- “controlled service or fitting” means a service or fitting in relation to which Part G, H, J, L or P of Schedule 1 imposes a requirement;
+- “day” means any period of 24 hours commencing at midnight and excludes any Saturday, Sunday, Bank holiday or public holiday;
+- “design work” means design of any building work;
+- “designer” means any person (including a client, contractor or other person referred to in Part 2A of these Regulations) who in the course of a business—carries out any design work, orarranges for, or instructs, any person under their control to do so;
+- “development” has the same meaning as in section 55 of the TCPA 1990;
+- “domestic client” means a client for whom a project is being carried out which is not in the course or furtherance of a business of that client;
+- “dwelling” includes a dwelling-house and a flat;
+- “dwelling-house” does not include a flat or a building containing a flat;
+- “electrical installation” means fixed electrical cables or fixed electrical equipment located on the consumer's side of the electricity supply meter;
+- “energy efficiency requirements” means the requirements of regulations 23, 25A, 25B 26, 26A, 26B, 26A, 26C, 28 ..., 40 and 43 40 and 40A, and Part L of Schedule 1;
+- ...
+- “excepted energy building” has the meaning given in the Schedule to The Welsh Ministers (Transfer of Functions) (No. 2) Order 2009
+- “exempt person” has the meaning given in the BSL Regulations;
+- “extra-low voltage” means voltage not exceeding—in relation to alternating current, 50 volts between conductors and earth; orin relation to direct current, 120 volts between conductors;
+- “final certificate” means a certificate given under section 51 of the Act;
+- “fixed building services” means any part of, or any controls associated with—fixed internal or external lighting systems (but not including emergency escape lighting or specialist process lighting);fixed systems for heating, hot water, air conditioning or mechanical ventilation; orany combination of systems of the kinds referred to in paragraph (a) or (b);
+- “flat” means separate and self-contained premises constructed or adapted for use for residential purposes and forming part of a building from some other part of which it is divided horizontally;
+- “floor area” means the aggregate area of every floor in a building or extension, calculated by reference to the finished internal faces of the walls enclosing the area, or if at any point there is no such wall, by reference to the outermost edge of the floor;
+- ...
+- “green deal disclosure obligations” means the obligations to provide an energy performance certificate in section 12 of the Energy Act 2011 and Part 7 of the Green Deal Framework Regulations;
+- “green deal property” has the meaning given in section 12(5)(b) of the Energy Act 2011;
+- “gross internal area” has the meaning given in the BSL Regulations;
+- “height” means the height of the building measured from the mean level of the ground adjoining the outside of the external walls of the building to the level of half the vertical height of the roof of the building, or to the top of the walls or of the parapet, if any, whichever is the higher;
+- “higher-risk building” has the meaning given in regulation 3 of the Building Safety (Description of Higher-Risk Building) (Design and Construction Phase) (Wales) Regulations 2023;
+- “higher-risk building work” means any work relating to higher-risk building or a proposed higher-risk building, including—any work relating to a building that is not a higher-risk building that causes it to become such a building, andany work relating to a higher-risk building that causes it to cease to be such a building.
+- “independent access” means, in relation to a part of a building (including any extension to that building), a route of access to that part which does not require the user to pass through any other part of the building;
+- “initial notice” means a notice given under section 47 of the Act;
+- “institution” means an institution (whether described as a hospital, home, school or other similar establishment) which is used as living accommodation for, or for the treatment, care or maintenance of persons—suffering from disabilities due to illness or old age or other physical or mental incapacity, orunder the age of five years under the age of 18,where such persons sleep on the premises;
+- “levy determination notice” has the meaning given in the BSL Regulations;
+- “low voltage” means voltage not exceeding—in relation to alternating current, 1000 volts between conductors or 600 volts between conductors and earth; orin relation to direct current, 1500 volts between conductors or 900 volts between conductors and earth;
+- “major residential development” has the meaning given in the BSL Regulations;
+- “material alteration” has the meaning given in regulation 3(2);
+- “material change of use” has the meaning given in regulation 5;
+- “microgeneration” means the use for the generation of electricity or the production of heat or cooling of any plant (which for this purpose includes any equipment, apparatus or appliance) which, in generating electricity or (as the case may be) producing heat or cooling, relies wholly or mainly on a source of energy or a technology mentioned in section 26(2) of the Climate Change and Sustainable Energy Act 2006;
+- “named client” has the meaning given in the BSL Regulations;
+- “new dwelling” includes, except in Parts 6 and 7, a dwelling that is formed by a material change of use of a building within the meaning of regulation 5(a), (b) or (g);
+- “optional requirement” means an optional requirement as described in regulation 4(1A)(b) or in regulation 36(2)(b);
+- “ordinary residential dwelling” has the meaning given in the BSL Regulations;
+- “original application” has the meaning given in the BSL Regulations;
+- “other units” has the meaning given in regulation 11(2) of the BSL Regulations;
+- “part of a wider development” has the meaning given in the BSL Regulations;
+- “payment period” has the meaning given in regulation 2(1) of the Green Deal Framework Regulations;
+- “planning permission” has the meaning given in section 336(1) (interpretation) of the Town and Country Planning Act 1990;
+- “previous development condition” has the meaning given in the BSL Regulations;
+- “principal contractor” means the contractor appointed under regulation 11D (principal designer and principal contractor) to perform the duties of a principal contractor under these Regulations;
+- “principal designer” means the designer appointed under regulation 11D (principal designer and principal contractor) to perform the duties of a principal designer under these Regulations;
+- “principal contractor” means—the contractor appointed under regulation 11U (principal designer and principal contractor) to perform the duties of a principal contractor under these Regulations, ora person assigned under regulation 11T(1) (domestic clients), including where a domestic client assigns themselves to perform the duties of a principal contractor under these Regulations;
+- “principal designer” means—the designer appointed under regulation 11U (principal designer and principal contractor) to perform the duties of a principal designer under these Regulations, ora person assigned under regulation 11T(1) (domestic clients), including where a domestic client assigns themselves to perform the duties of a principal designer under these Regulations;
+- “prior approval” means an approval given or deemed to be given following a prior approval application;
+- “prior approval application” has the meaning given in section 69A(2) of TCPA 1990;
+- “project” means a project which includes or is intended to include any building work and includes all planning work, design work, management or other work involved in a project until the end of the construction phase;
+- “public body's final certificate” means a certificate given under paragraph 3 of Schedule 4 to the Act;
+- “public body's notice” means a notice given under section 54 of the Act;
+- “purpose-built student accommodation” has the meaning given in the BSL Regulations;
+- “recipient”, in relation to a compliance notice or a stop notice, means the person to whom the notice will be or has been given;
+- “relevant authority” means—in cases where the regulator is the building control authority by virtue of section 91ZB of the Act (the regulator: building control authority for other work), the regulator;in any other case, the local authority for the area in which the building is situated or the proposed building is to be situated;
+- “relevant day” means any day excluding Christmas Day, Good Friday or a day which is a bank holiday in England and Wales under section 1 of the Banking and Financial Dealings Act 1971;
+- “relevant residential building” has the meaning given in the BSL Regulations;
+- “relevant residential units” has the meaning given in regulation 11(2) of the BSL Regulations;
+- “renovation” in relation to a thermal element means the provision of a new layer in the thermal element (other than where that new layer is provided solely as a means of repair to a flat roof) or the replacement of an existing layer, but excludes decorative finishes, and “renovate” shall be construed accordingly;
+- “residential floorspace” has the meaning given in the BSL Regulations;
+- “room for residential purposes” means a room, or a suite of rooms, which is not a dwelling-house or a flat and which is used by one or more persons to live and sleep and includes a room in a hostel, an hotel, a boarding house, a hall of residence or a residential home, but does not include a room in a hospital, or other similar establishment, used for patient accommodation;
+- “shop” includes premises—used for the sale to members of the public of food or drink for consumption on or off the premises,used for retail sales by auction to members of the public,used by members of the public as a barber or hairdresser, or for the hiring of any item, andwhere members of the public may take goods for repair or other treatment;
+- “softened wholesome water” means water which would be regarded as wholesome for the purposes of regulations made under section 67 of the Water Industry Act 1991 (standards of wholesomeness) as they apply for the purposes of Part G of Schedule 1 in accordance with paragraph (5) but for the presence of sodium in excess of the level specified in those regulations if it is caused by a water softener or water softening process which reduces the concentrations of calcium and magnesium;
+- “sole contractor” means a person fulfilling the duties of the principal contractor by virtue of regulation 11D(6);
+- “sole or lead designer” means a person fulfilling the duties of the principal designer by virtue of regulation 11D(7);
+- “sole contractor” means a person fulfilling the duties of the principal contractor by virtue of regulation 11U(6);
+- “sole or lead designer” means a person fulfilling the duties of the principal designer by virtue of regulation 11U(7);
+- “system for on-site electricity generation” means a system that produces electricity and has a direct electrical connection to the building in question.
+- “TCPA 1990” means the Town and Country Planning Act 1990;
+- “updated application” has the meaning given in the BSL Regulations;
+- “variation application” has the meaning given in the BSL Regulations.
+- ...
+2. In these Regulations “public building” means a building consisting of or containing—
+    (a) a theatre, public library, hall or other place of public resort;
+    (b) a school or other educational establishment not exempted from the operation of building regulations by virtue of section 4(1)(a) of the Act; or
+    (c) a place of public worship;
+but a building is not to be treated as a place of public resort because it is, or it contains, a shop, storehouse or warehouse, or is a dwelling to which members of the public are occasionally admitted.
+3. In these Regulations “thermal element” means a wall, floor or roof (but does not include windows, doors, roof windows or roof-lights) which separates a thermally conditioned part of the building (“the conditioned space”) from—
+    (a) the external environment (including the ground); or
+    (b) in the case of floors and walls, another part of the building which is—
+        (i) unconditioned;
+        (ii) an extension falling within class 7 of Schedule 2; or
+        (iii) where this paragraph applies, conditioned to a different temperature,
+and includes all parts of the element between the surface bounding the conditioned space and the external environment or other part of the building as the case may be.
+4. Paragraph (3)(b)(iii) only applies to a building which is not a dwelling, where the other part of the building is used for a purpose which is not similar or identical to the purpose for which the conditioned space is used.
+5. Section 67 of the Water Industry Act 1991 and such regulations as have been made under that section apply for the purposes of Part G of Schedule 1 as they apply for the purposes of Chapter 3 of Part 3 of that Act.
+6. In these Regulations—
+    (a) any reference to an “external wall” of a building includes a reference to—
+        (i) anything located within any space forming part of the wall;
+        (ii) any decoration or other finish applied to any external (but not internal) surface forming part of the wall;
+        (iii) any windows and doors in the wall; and
+        (iv) any part of a roof pitched at an angle of more than 70 degrees to the horizontal if that part of the roof adjoins a space within the building to which persons have access, but not access only for the purpose of carrying out repairs or maintenance; ...
+    (b) “relevant metal composite material” means any panel or sheet, having a thickness of no more than 10mm, which is comprised of a number of layers—
+        (i) two or more of which are made of metal, alloy or metal compound; and
+        (ii) one or more of which is substantial and is made of a material having a gross calorific value of more than 35 MJ/kg when tested in accordance with BS EN ISO 1716:2018 entitled “Reaction to fire tests for products – Determination of the gross heat of combustion (calorific value)” (ISBN 978 0 580 93554 1) published by the British Standards Institution on 31st July 2018;
+    and for these purposes a substantial layer is one which is at least 1mm thick or has a mass per unit area of at least 1kg per m²;
+    (c) “specified attachment” means—
+        (i) a balcony attached to an external wall;
+        (ii) a solar shading device (excluding a solar shading device attached to the wall at a height of no more than 4.5 metres above ground level); or
+        (iii) a solar panel attached to an external wall; and
+    (d) “solar shading device” means a device attached to the external surface of an external wall for reducing heat gain within a building by shading or deflecting sunlight.
+    (b) “reaction to fire classification” means BS EN 13501-1:2018 entitled “Fire classification of construction products and building elements. Classification using data from reaction to fire tests.” published by the British Standards Institution in 2019;
+    (c) “relevant metal composite material” means any panel or sheet, having a thickness of no more than 10mm, which is comprised of a number of layers—
+        (i) two or more of which are made of metal, alloy or metal compound; and
+        (ii) one or more of which is substantial and is made of a material having a gross calorific value of more than 35 MJ/kg when tested in accordance with BS EN ISO 1716:2018 entitled “Reaction to fire tests for products – Determination of the gross heat of combustion (calorific value)” published by the British Standards Institution in 2018;
+    and for these purposes a substantial layer is one which is at least 1mm thick or has a mass per unit area of at least 1kg per m²;
+    (d) “specified attachment” means—
+        (i) a balcony attached to an external wall;
+        (ii) a solar shading device (excluding a solar shading device attached to the wall at a height of no more than 4.5 metres above ground level); or
+        (iii) a solar panel attached to an external wall; and
+    (e) “solar shading device” means a device attached to the external surface of an external wall for reducing heat gain within a building by shading or deflecting sunlight.

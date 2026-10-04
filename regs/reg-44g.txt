@@ -1,0 +1,12 @@
+Regulation 44G — Application of paragraph S4 of Schedule 1 (erection of new buildings which are not residential buildings or mixed-use buildings)
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 9B — Infrastructure for the charging of electric vehicles
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/44G
+XML metadata: in force from 2022-06-15
+
+1. The requirements of paragraph S4 of Schedule 1 apply to the erection of a new building which is not a residential building or a mixed-use building (“new building”) as follows.
+2. If such a new building has, or will have, within its site boundary, more than 10 parking spaces—
+    (a) if there are or will be any parking spaces situated in a position other than in a covered car park—
+        (i) the requirements of paragraph S4 of Schedule 1 must first be applied in relation to those parking spaces; then
+        (ii) if the number of parking spaces which are situated in a position other than in a covered car park is insufficient to completely fulfil the requirements of paragraph S4 of Schedule 1, cable routes for electric vehicle charge points must be installed in a sufficient number of parking spaces in the covered car park in order to ensure compliance with the requirements of paragraph S4(b) of Schedule 1;
+    (b) if all the parking spaces are situated in a covered car park, cable routes for electric vehicle charge points must be installed in a minimum of one fifth of the total number of those parking spaces.

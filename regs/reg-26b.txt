@@ -1,0 +1,7 @@
+Regulation 26B — Fabric performance values for new dwellings
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 6 — Energy Efficiency Requirements
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/26B
+XML metadata: in force from 2018-06-08; extent E and W
+
+Where a dwelling is erected, it must not exceed the target fabric performance values for the dwelling which have been approved pursuant to regulation 25C(b), applying the methodology of calculation and expression of the energy performance of buildings approved pursuant to regulation 24.

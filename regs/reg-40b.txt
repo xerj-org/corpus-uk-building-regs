@@ -1,0 +1,8 @@
+Regulation 40B — Information about overheating
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 8 — Information to be Provided by the Person Carrying Out Work
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/40B
+XML metadata: in force from 2023-06-05
+
+1. This regulation applies to building work in respect of a building where Part O of Schedule 1 applies where Part O of Schedule 1 imposes a requirement in relation to building work.
+2. The person carrying out the work must, not later than five days after the work has been completed, give sufficient information to the owner about the provision made in accordance with Part O so that the systems in place further to Part O can be operated in such a manner as to protect against overheating.

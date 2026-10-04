@@ -1,0 +1,11 @@
+Regulation 11K — Additional duties of designers
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 2A — Dutyholders and competence
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/11K
+XML metadata: in force from 2023-10-01
+
+1. A designer must not start design work unless satisfied that the client is aware of the duties owed by the client for the building work to which the design relates under all relevant requirements.
+2. When carrying out design work the designer must take all reasonable steps to ensure that the design is such that if the building work to which the design relates were built in accordance with that design the building work would be in compliance with all relevant requirements.
+3. In providing a design, a designer must take all reasonable steps to provide sufficient information about the design, construction and maintenance of the building to assist the client, other designers and contractors to comply with all relevant requirements.
+4. Where a designer is carrying out only part of the design of the building work which comprises a project, the designer must consider other design work which directly relates to that building work and report any concerns as to compliance with all relevant requirements to the principal designer.
+5. If requested to do so, a designer must provide advice to the principal designer or the client on whether any work, to which a design they are preparing or modifying relates, is higher-risk building work.

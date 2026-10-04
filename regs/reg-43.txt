@@ -1,0 +1,19 @@
+Regulation 43 — Pressure testing
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 9 — Testing and Commissioning
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/43
+XML metadata: in force from 2026-07-01; extent E and W
+
+1. This regulation applies to the erection of a building in relation to which paragraph L1(a)(i) of Schedule 1 imposes a requirement.
+2. Where this regulation applies, the person carrying out the work shall, for the purpose of ensuring compliance with regulation 26 and regulation 26A and paragraph L1(a)(i) of Schedule 1—
+    (a) ensure that—
+        (i) pressure testing is carried out in such circumstances as are approved by the Secretary of State; and
+        (ii) the testing is carried out in accordance with a procedure approved by the Secretary of State; and
+    (b) subject to paragraph (5), give notice of the results of the testing to the building control authority.
+3. The notice referred to in paragraph (2)(b) shall—
+    (a) record the results and the data upon which they are based in a manner approved by the Secretary of State; and
+    (b) be given to the building control authority not later than seven days after the final test is carried out.
+4. A building control authority are authorised to accept, as evidence that the requirements of paragraph (2)(a)(ii) have been satisfied, a certificate to that effect by a person who is registered by ... Elmhurst Energy Systems Limited or the Air Tightness Testing and Measurement Association in respect of pressure testing for the air tightness of buildings.
+5. Where such a certificate contains the information required by paragraph (3)(a), paragraph (2)(b) does not apply.
+6. Where the regulator is the building control authority by virtue of section 91ZB of the Act (the regulator: building control authority for other work), it must send a copy of each notice or certificate it receives under this regulation in relation to a building to the local authority for the area in which the building is situated.
+6. Where the building control authority is a designated local authority under section 91ZD of the Act, it must send a copy of each notice or certificate it receives under this regulation in relation to a building to the local authority for the area in which the building is situated.

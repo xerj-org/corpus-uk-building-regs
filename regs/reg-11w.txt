@@ -1,0 +1,18 @@
+Regulation 11W — Competence: general requirement: Wales
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 2B - WALES — Dutyholders and competence
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/11W
+XML metadata: in force from 2026-07-01
+
+1. Any person carrying out any building work or any design work must have—
+    (a) where the person is an individual, the skills, knowledge, experience and behaviours necessary;
+    (b) where the person is not an individual, the organisational capability, to carry out—
+        (i) the building work in accordance with all relevant requirements;
+        (ii) the design work so that the building work to which the design relates, if built, would be in accordance with all relevant requirements.
+2. Any person carrying out any building work as a contractor or any design work as a designer must have—
+    (a) where the person is an individual, the skills, knowledge, experience and behaviours necessary,
+    (b) where the person is not an individual, the organisational capability,
+to fulfil the duties of a contractor or designer, under these Regulations in relation to the work.
+3. The requirements in paragraphs (1) and (2) do not apply to an individual (T) who is in training to fulfil those requirements.
+4. The person who asked T to carry out any building work or, any design work must ensure T is adequately supervised when carrying out the work.
+5. A person who is in training to fulfil the requirements of a principal contractor or a principal designer may not be appointed as a principal contractor or a principal designer.

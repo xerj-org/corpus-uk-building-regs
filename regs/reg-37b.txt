@@ -1,0 +1,7 @@
+Regulation 37B — Requirements of automatic fire suppression systems
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 7A — Automatic fire suppression systems
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/37B
+XML metadata: in force from 2014-04-30
+
+For the purposes of regulation 37A(3), the requirements of an automatic fire suppression system are the requirements set out in any document approved and issued under section 6 of the Building Act 1984 for the purpose of providing practical guidance as to the requirements of regulation 37A.

@@ -1,0 +1,31 @@
+Regulation 47I — Compliance notices: excluded provisions: Wales
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 10 — Miscellaneous
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/47I
+XML metadata: in force from 2026-07-01
+
+The following provisions of these Regulations are prescribed as provisions in relation to which a compliance notice may not be given under section 35B(7)(a) of the Act—
+(a) regulation 14D (determination of applications for building control approval with full plans: Wales);
+(b) regulation 15B (consultation in relation fire safety: Wales);
+(c) regulation 16(2B) and (2C) (notice as to commencement of work);
+(d) regulation 17 (completion certificates);
+(e) regulation 17A (certificate for building occupied before work is completed);
+(f) regulation 18(6A) (unauthorised building work);
+(g) regulation 18I(8) and (12) (appeals under section 101A of the Act: Wales);
+(h) regulation 20(6A) (provisions applicable to self-certification schemes);
+(i) regulation 25A(3A) (consideration of high-efficiency alternative systems for new buildings);
+(j) regulation 27(4A) (CO2 emission rate calculations);
+(k) regulation 27A(4A) (primary energy rate calculations);
+(l) 27B(4A) (fabric performance values calculations);
+(m) regulation 27C(5) (energy efficiency rating calculations);
+(n) regulation 37(3) (wholesome water consumption calculation);
+(o) regulation 41(3A) (sound insulation testing);
+(p) regulation 42(4) (mechanical ventilation air flow rate testing);
+(q) regulation 43(6) (pressure testing);
+(r) regulation 44(5) (commissioning);
+(s) regulation 44ZA(4) (commissioning in respect of a system for on-site electricity generation);
+(t) 44ZAA(3) (particulars of connection to public electronic communications network);
+(u) regulation 47J (compliance notices: contents: Wales);
+(v) regulation 47K (stop notices: contents: Wales);
+(w) regulation 47L(3) (compliance notices and stop notices: giving of notices and notification of others: Wales);
+(x) regulation 47M(2) (compliance and stop notices: withdrawal: Wales).

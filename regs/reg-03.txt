@@ -1,0 +1,27 @@
+Regulation 3 — Meaning of building work
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 2 — Control of Building Work
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/3
+XML metadata: in force from 2024-10-01
+
+1. In these Regulations “building work” means—
+    (a) the erection or extension of a building;
+    (b) the provision or extension of a controlled service or fitting in or in connection with a building;
+    (c) the material alteration of a building, or a controlled service or fitting, as mentioned in paragraph (2);
+    (d) work required by regulation 6 (requirements relating to material change of use);
+    (e) the insertion of insulating material into the cavity wall of a building;
+    (f) work involving the underpinning of a building;
+    (g) work required by regulation 22 (requirements relating to a change of energy status);
+    (h) work required by regulation 23 (requirements relating to thermal elements);
+    (i) work required by regulation 28 (consequential improvements to energy performance).
+2. An alteration is material for the purposes of these Regulations if the work, or any part of it, would at any stage result—
+    (a) in a building or controlled service or fitting not complying with a relevant requirement where previously it did; or
+    (b) in a building or controlled service or fitting which before the work commenced did not comply with a relevant requirement, being more unsatisfactory in relation to such a requirement.
+3. In paragraph (2) “relevant requirement” means any of the following applicable requirements of Schedule 1, namely—
+- Part A (structure)
+- paragraph B1 (means of warning and escape)
+- paragraph B3 (internal fire spread—structure)
+- paragraph B4 (external fire spread)
+- paragraph B5 (access and facilities for the fire service)
+- Part M (access to and use of buildings).
+- Part T (Toilet Accommodation)

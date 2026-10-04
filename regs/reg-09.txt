@@ -1,0 +1,22 @@
+Regulation 9 — Exempt buildings and work
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 2 — Control of Building Work
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/9
+XML metadata: in force from 2018-06-08; extent E and W
+
+1. Subject to paragraphs (2), (3) and (4) and regulation 21(1), these Regulations do not apply to—
+    (a) the erection of any building or extension of a kind described in Schedule 2; or
+    (b) the carrying out of any work to or in connection with such a building or extension, if after the carrying out of that work it is still a building or extension of a kind described in that Schedule.
+2. The requirements of paragraphs G1 and G3(2) and (3) of Schedule 1 apply—
+    (a) to any greenhouse which receives a cold or hot water supply from a source shared with or located inside a dwelling; and
+    (b) to—
+        (i) any small detached building falling within class 6 in Schedule 2; and
+        (ii) any extension of a building falling within class 7 in Schedule 2,
+    which in either case receives a cold or hot water supply from a source shared with or located inside any building other than a building or extension of a kind described in Schedule 2.
+3. The requirements of Part P of Schedule 1 apply to—
+    (a) any greenhouse used for domestic purposes;
+    (b) any small detached building falling within class 6 in Schedule 2; and
+    (c) any extension of a building falling within class 7 in Schedule 2,
+which in any case receives its electricity from a source shared with or located inside a dwelling.
+4. The requirements of paragraph R1 of Schedule 1 apply to buildings controlled under other legislation falling within class 1 in Schedule 2.
+4. The requirements of paragraph R1 of Schedule 1 apply to buildings falling within paragraphs 1 and 2 of Class 1 (buildings controlled under other legislation) in Schedule 2.

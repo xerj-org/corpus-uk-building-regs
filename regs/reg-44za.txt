@@ -1,0 +1,28 @@
+Regulation 44ZA — Commissioning in respect of a system for on-site electricity generation
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 9 — Testing and Commissioning
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/england
+This regulation has a different Wales version; it is appended below (the inline text above is the England version).
+XML metadata: in force from 2026-07-01; extent E
+
+1. This regulation applies to building work in respect of a building in relation to which paragraph L2 of Schedule 1 imposes a requirement, but does not apply to the provision or extension of any system for on-site electricity generation where testing and adjustment is not possible.
+2. Where this regulation applies the person carrying out the work must, for the purpose of ensuring compliance with paragraph L2 of Schedule 1, give to the building control authority a notice confirming that the system for on-site electricity generation has been commissioned.
+3. The notice must be given—
+    (a) in the case where the building work is higher-risk building work for which an application for a completion certificate is required, to the regulator with the application;
+    (b) in any other case, to the building control authority—
+        (i) not later than the date on which the notice required by regulation 16(4) of these Regulations or 22A(1) of the Building (Registered Building Control Approvers etc.) (England) Regulations 2024 is required to be given; or
+        (ii) where that regulation does not apply, not more than 30 days after completion of the work.
+4. Where the regulator is the building control authority by virtue of section 91ZB of the Act (the regulator: building control authority for other work), it must send a copy of each notice it receives under this regulation in relation to a building to the local authority for the area in which the building is situated.
+
+--- ALTERNATIVE VERSION — applies in Wales only (XML Version container "v10018", RestrictExtent W) ---
+
+1. This regulation applies to building work in respect of a building in relation to which paragraph L2 of Schedule 1 imposes a requirement, but does not apply to the provision or extension of any system for on-site electricity generation where testing and adjustment is not possible.
+2. Where this regulation applies the person carrying out the work must, for the purpose of ensuring compliance with paragraph L2 of Schedule 1, give to the building control authority a notice confirming that the system for on-site electricity generation has been commissioned.
+3. The notice must be given—
+    (a) in the case where the building work is higher-risk building work for which a completion certificate application is required, to the building control authority with the application;
+    (b) in any other case, to the building control authority—
+        (i) not later than the date on which the notice required by regulation 16(4) of these Regulations or regulation 17A(1) of the Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 is required to be given, or
+        (ii) where those regulations do not apply, not more than 30 days after completion of the work.
+4. Where the building control authority is a designated local authority under section 91ZD of the Act, it must send a copy of each notice it receives under this regulation in relation to a building to the local authority for the area in which the building is situated.
+
+Source (Wales version): https://www.legislation.gov.uk/uksi/2010/2214/regulation/44ZA/wales

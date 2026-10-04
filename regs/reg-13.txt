@@ -1,0 +1,34 @@
+Regulation 13 — Particulars and plans where a building notice is given
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 3 — Notices, Plans and Certificates
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/13
+XML metadata: in force from 2026-07-01
+
+1. A building notice shall state the name and address of the person intending to carry out the work and shall be signed by that person or on that person's behalf, and shall contain or be accompanied by—
+    (a) a statement that it is given for the purpose of regulation 12(2)(a);
+    (b) a description of the proposed building work, renovation or replacement of a thermal element, change to the building's energy status or material change of use; and
+    (c) particulars of the location of the building to which the proposal relates and the use or intended use of that building; and
+    (d) in the case of a new dwelling—
+        (i) a statement whether or not any optional requirement applies to the building work, and if so which, or
+        (ii) a statement that planning permission has not yet been granted for the work, and that the information required by subparagraph (i) will be supplied before the end of a period of twenty eight days beginning on the day after that permission is granted.
+1A. In the case of a new dwelling, where a statement under paragraph (1)(d)(ii) has accompanied the building notice, a statement in the terms required by paragraph (1)(d)(i) must be provided to the relevant authority before the end of a period of twenty eight days beginning on the day after planning permission is granted for the building work, and the statement must state that it is supplementary to the information given in respect of the work pursuant to paragraph (1)(d).
+2. In the case of the erection or extension of a building, a building notice shall be accompanied by—
+    (a) a plan to a scale of not less than 1:1250 showing—
+        (i) the size and position of the building, or the building as extended, and its relationship to adjoining boundaries;
+        (ii) the boundaries of the curtilage of the building, or the building as extended, and the size, position and use of every other building or proposed building within that curtilage;
+        (iii) the width and position of any street on or within the boundaries of the curtilage of the building or the building as extended;
+    (b) a statement specifying the number of storeys (each basement level being counted as one storey), in the building to which the proposal relates; and
+    (c) particulars of—
+        (i) the provision to be made for the drainage of the building or extension; and
+        (ii) the steps to be taken to comply with any local enactment which applies.
+2A. In the case of the erection of a dwelling, or a building that is to contain one or more dwellings, a building notice shall be accompanied by—
+    (a) particulars of any public electronic communications network in relation to which a connection is to be provided,
+    (b) if an exemption in regulation 44ZB is proposed to be relied on, evidence in support of the exemption, and
+    (c) if regulation 44ZC is proposed to be relied on—
+        (i) evidence of the matters mentioned in regulation 44ZC(6)(a) and (b), and
+        (ii) if paragraph RA1(1)(c)(i) or (ii) of Schedule 1 is also proposed to be relied on, evidence of the steps taken to establish whether, and if so where, a distribution point for a gigabit-capable public electronic communications network (as defined by regulation 44C) is likely to be installed, in a location relevant for the purposes of paragraph RA(1)(c), within the period of 2 years beginning with the day on which the notice is given.
+3. Where a building notice has been given, a person carrying out building work, renovation or replacement of a thermal element, change to the building's energy status or making a material change of use shall give the relevant authority, within such time as they specify, such plans as are, in the particular case, necessary for the discharge of their functions in relation to building regulations and are specified by them in writing.
+4. Neither a building notice nor plans which accompany it or are given under paragraph (3) are to be treated as an application for building control approval with full plans in accordance with building regulations.
+5. A building notice shall cease to have effect on the expiry of three years from the date on which that notice was given to the relevant authority, unless before the expiry of that period—
+    (a) the building work to which the notice related was commenced; or
+    (b) the change to the building's energy status or the material change of use described in the notice was made.

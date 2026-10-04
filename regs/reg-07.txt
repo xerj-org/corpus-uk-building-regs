@@ -1,0 +1,68 @@
+Regulation 7 — Materials and workmanship
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 2 — Control of Building Work
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/england
+This regulation has a different Wales version; it is appended below (the inline text above is the England version).
+XML metadata: in force from 2025-12-20; extent E
+
+1. Building work shall be carried out—
+    (a) with adequate and proper materials which—
+        (i) are appropriate for the circumstances in which they are used,
+        (ii) are adequately mixed or prepared, and
+        (iii) are applied, used or fixed so as adequately to perform the functions for which they are designed; and
+    (b) in a workmanlike manner.
+1A. Building work shall be carried out so that relevant metal composite material does not become part of an external wall, or specified attachment, of any building.
+2. Subject to paragraph (3), building work shall be carried out so that materials which become part of an external wall, or specified attachment, of a relevant building are of European Classification A2-s1, d0 or A1 (classified in accordance with the reaction to fire classification).
+3. Paragraph (2) does not apply to—
+    (a) cavity trays when used between two leaves of masonry;
+    (b) any part of a roof (other than any part of a roof which falls within paragraph (iv) of regulation 2(6)) if that part is connected to an external wall;
+    (c) door frames and doors;
+    (d) electrical installations;
+    (da) fibre optic cables;
+    (e) insulation and water proofing materials used below ground level or up to 300mm above that level;
+    (f) intumescent and fire stopping materials where the inclusion of the materials is necessary to meet the requirements of Part B of Schedule 1;
+    (g) membranes;
+    (h) seals, gaskets, fixings, sealants and backer rods;
+    (ha) components associated with a solar shading device excluding components whose primary function is to provide shade or deflect sunlight such as the awning curtain or slats;
+    (i) thermal break materials where the inclusion of the materials is necessary to meet the thermal bridging requirements of Part L of Schedule 1; ...
+    (j) window frames and glass; or
+    (k) materials which form the top horizontal floor layer of a balcony which are of European Classification A1fl or A2fl-s1 (classified in accordance with the reaction to fire classification) provided that the entire layer has an imperforate substrate under it.
+4. In this regulation—
+    (a) a “relevant building” means a building with a storey (not including roof-top plant areas or any storey consisting exclusively of plant rooms) at least 18 metres above ground level and which—
+        (i) contains one or more dwellings;
+        (ii) contains an institution; or
+        (iii) contains a room for residential purposes ...; and
+    (b) “above ground level” in relation to a storey means above ground level when measured from the lowest ground level adjoining the outside of a building to the top of the floor surface of the storey.
+
+--- ALTERNATIVE VERSION — applies in Wales only (XML Version container "v10031", RestrictExtent W) ---
+
+1. Building work shall be carried out—
+    (a) with adequate and proper materials which—
+        (i) are appropriate for the circumstances in which they are used,
+        (ii) are adequately mixed or prepared, and
+        (iii) are applied, used or fixed so as adequately to perform the functions for which they are designed; and
+    (b) in a workmanlike manner.
+1A. Building work must be carried out so that relevant metal composite material does not become part of an external wall, or specified attachment, of any building.
+2. Subject to paragraph (3), building work must be carried out so that materials which become part of an external wall, or specified attachment, of a relevant building are of a minimum European Classification A2-s1, d0 or A1, classified in accordance with BS EN 13501-1:2018 entitled “Fire classification of construction products and building elements. Classification using test data from reaction to fire tests” (ISBN 978 0 580 95726 0) published by the British Standards Institution on 14th January 2019.
+3. Paragraph (2) does not apply to—
+    (a) cavity trays when used between two leaves of masonry;
+    (b) any part of a roof (other than any part of a roof which falls within paragraph (iv) of regulation 2(6)) if that part is connected to an external wall;
+    (c) door frames and doors;
+    (d) electrical installations;
+    (da) fibre optic cables;
+    (e) insulation and water proofing materials used below ground level or up to 300mm above that level;
+    (f) intumescent and fire stopping materials where the inclusion of the materials is necessary to meet the requirements of Part B of Schedule 1;
+    (g) membranes;
+    (h) seals, gaskets, fixings, sealants and backer rods;
+    (ha) components associated with a solar shading device excluding components whose primary function is to provide shade or deflect sunlight such as the awning curtain or slats;
+    (i) thermal break materials where the inclusion of the materials is necessary to meet the thermal bridging requirements of Part L of Schedule 1; ...
+    (j) window frames and glass; or
+    (k) materials which form the top horizontal floor layer of a balcony which are of European Classification A1fl or A2fl-s1 (classified in accordance with BS EN 13501-1:2018 entitled “Fire classification of construction products and building elements. Classification using test data from reaction to fire tests” (ISBN 978 0 580 95726 0) published by the British Standards Institution on 14th January 2019) provided that the entire layer has an imperforate substrate under it.
+4. In this regulation—
+    (a) a “relevant building” means a building with a storey (not including roof-top plant areas or any storey consisting exclusively of plant rooms) at least 18 metres above ground level and which—
+        (i) contains one or more dwellings;
+        (ii) contains an institution; or
+        (iii) contains a room for residential purposes ...;
+    (b) “above ground level” in relation to a storey means above ground level when measured from the lowest ground level adjoining the outside of a building to the top of the floor surface of the storey.
+
+Source (Wales version): https://www.legislation.gov.uk/uksi/2010/2214/regulation/7/wales

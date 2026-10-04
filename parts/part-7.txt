@@ -1,0 +1,8 @@
+PART 7 — Water Efficiency
+Building Regulations 2010 (SI 2010/2214), current version, fetched 2026-10-04
+Source: https://www.legislation.gov.uk/uksi/2010/2214/part/7
+
+Index of provisions in this Part (files under regs/):
+
+  reg 36: Water efficiency of new dwellings [England text; Wales variant appended in file]
+  reg 37: Wholesome water consumption calculation [England text; Wales variant appended in file]

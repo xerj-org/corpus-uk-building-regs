@@ -1,0 +1,10 @@
+Regulation 44J — Minimum standards of an electric vehicle charge point
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 9B — Infrastructure for the charging of electric vehicles
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/44J
+XML metadata: in force from 2022-06-15
+
+1. For the purposes of this Part and Part S of Schedule 1, an electric vehicle charge point must meet the following minimum standards.
+2. It must be capable of providing a reasonable power output for each parking space for which it is intended to be used.
+3. It must be run on a dedicated circuit.
+4. It must be compatible with all vehicles which may require access to it.

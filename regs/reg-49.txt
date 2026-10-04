@@ -1,0 +1,9 @@
+Regulation 49 — Transitional provisions: interpretation
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 10 — Miscellaneous
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/49
+XML metadata: in force from 2011-07-15; extent E and W
+
+In regulations 50 to 53—
+- “the 2009 Regulations” means the Building (Amendment No. 2) Regulations 2009;
+- ...

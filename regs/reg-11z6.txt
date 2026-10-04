@@ -1,0 +1,29 @@
+Regulation 11Z6 — Notification of change of dutyholder: Wales
+Building Regulations 2010 (SI 2010/2214), current version as served by legislation.gov.uk, fetched 2026-10-04
+PART 2B - WALES — Dutyholders and competence
+Source: https://www.legislation.gov.uk/uksi/2010/2214/regulation/11Z6
+XML metadata: in force from 2026-07-20
+
+1. This paragraph applies where, in relation to any building work, at any time after an application for building control approval is made or a building notice is given the client for a project changes.
+2. Where paragraph (1) applies the new client must give a notice to the building control authority which includes—
+    (a) the location of the building work;
+    (b) the name, address, telephone number and (if available) email address of the new client and the date they became the client;
+    (c) the name, address, telephone number and (if available) email address of the previous client and the date they ceased to be the client;
+    (d) where the notice is given by someone on behalf of the new client, a statement signed by the new client confirming they agree to the notice being made and that the information contained in the notice is correct.
+3. This paragraph applies where, in relation to any building work, at any time after an application for building control approval is made or a building notice is given the client appoints a principal contractor (or sole contractor) or a principal designer (or sole or lead designer).
+4. Subject to paragraph (5), where paragraph (3) applies the client must give a notice to the building control authority which includes—
+    (a) the location of the building work;
+    (b) the name, address, telephone number and (if available) email address of the person appointed (PA) and the date of appointment;
+    (c) except where PA is the first person appointed to the role, the name, address, telephone number and (if available) email address of the person who held the role before PA (“outgoing dutyholder”) and the date their appointment ended;
+    (d) where the notice is given by someone on behalf of the client, a statement signed by the client confirming they agree to the notice being given and that the information contained in the notice is correct.
+5. Where the client is a domestic client (DC), except where under regulation 11T(1) a domestic client has assigned to themselves the duties in regulations 11R(1) to (3) and 11V(2) to (5) the following applies instead of paragraph (4)—
+    (a) an outgoing dutyholder must provide the information referred to in paragraph (4)(c) to the DC within 5 ... days of the date their appointment ends;
+    (b) DC must provide the information referred to under paragraph (4)(c) to PA on the date of appointment of PA or as soon as practicable after that date;
+    (c) subject to paragraph (6), PA must give a notice to the building control authority which includes—
+        (i) the location of the building work;
+        (ii) the name, address, telephone number and (if available) email address of PA and the date of appointment;
+        (iii) except where PA is the first person appointed to the role, the name, address, telephone number and (if available) email address of the outgoing dutyholder and the date their appointment ended;
+        (iv) a statement explaining the notice is given on behalf of DC.
+6. Where PA has not received the information required to be provided under paragraph (5)(b) by the time the notice under paragraph (5)(c) is to be given, the statement given by PA under paragraph (5)(c)(iv) must also include an explanation to that effect.
+7. A notice required under paragraphs (2), (4) or (5)(c) must be given to the building control authority within 10 ... days beginning with the date of the appointment or, as the case may be, the date when the person became the client.
+8. This regulation does not apply to higher-risk building work.
